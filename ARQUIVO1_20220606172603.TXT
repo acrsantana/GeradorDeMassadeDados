@@ -1,0 +1,1002 @@
+ARQUIVO1
+9505355|36472921/97|5447201|03/04/2022 02:54:59|New Crystal|Robel, Robel and Robel|Samuel Smith’s Imperial IPA|Sour Ale
+9964776|51909975/35|9639155|10/11/2019 12:45:22|Wendyland|Ruecker-Ruecker|Hercules Double IPA|Belgian Strong Ale
+4900130|08609634/59|7868031|21/08/2014 09:12:38|Hertaburgh|Cronin, Cronin and Cronin|Edmund Fitzgerald Porter|European Amber Lager
+4995493|46039579/98|2405760|27/12/2020 21:41:16|Sheafurt|Thiel, Thiel and Thiel|Pliny The Elder|Wood-aged Beer
+1861019|73720051/49|4111669|25/08/2022 02:39:30|Robertfurt|Gulgowski LLC|Stone IPA|Stout
+9371807|04449623/16|9193217|21/01/2013 08:02:15|Kurtisville|McGlynn-McGlynn|Samuel Smith’s Oatmeal Stout|India Pale Ale
+0901840|88462547/25|5868897|26/12/2018 09:10:55|Kochtown|Kunde, Kunde and Kunde|Orval Trappist Ale|Pilsner
+8415927|41297210/92|2746391|08/05/2013 06:32:13|Port Green|Schroeder LLC|Weihenstephaner Hefeweissbier|India Pale Ale
+3894984|63814383/28|3735642|27/12/2014 17:23:24|Myrafurt|Mohr-Mohr|Hop Rod Rye|German Wheat And Rye Beer
+5094173|14010525/91|4276845|23/01/2012 13:26:33|North Jordaneton|Klein-Klein|La Fin Du Monde|Light Hybrid Beer
+0458119|97934634/47|7873820|21/11/2012 08:59:28|Predovicside|VonRueden-VonRueden|Shakespeare Oatmeal|Sour Ale
+2915008|16849359/59|4778143|13/01/2015 00:35:18|Susanborough|Feil-Feil|Péché Mortel|Amber Hybrid Beer
+8998355|44178538/91|9885735|12/10/2014 06:18:31|Kayliemouth|Stamm-Stamm|Stone Imperial Russian Stout|India Pale Ale
+6333285|02796978/74|6971739|12/05/2019 16:40:11|Lake Eltonchester|Kovacek, Kovacek and Kovacek|Dreadnaught IPA|Sour Ale
+2904708|28609479/99|1854211|01/04/2021 19:50:54|Kennithshire|Huel and Sons|Two Hearted Ale|Merican Ale
+0506231|28279515/52|3536918|15/02/2022 02:13:34|Lake Zechariahborough|Blick LLC|Ruination IPA|Dark Lager
+4781487|75005860/07|3119423|16/04/2012 02:38:42|Port Emiliano|Block LLC|Samuel Smith’s Imperial IPA|Sour Ale
+5648413|53975667/76|0587745|10/05/2019 16:35:46|West Eliasside|Purdy Group|Oak Aged Yeti Imperial Stout|English Pale Ale
+2548607|93161055/54|8250612|21/12/2012 07:16:45|Schuppetown|Schultz-Schultz|Chimay Grande Réserve|Vegetable Beer
+1298896|01274935/49|1860665|24/02/2015 13:49:44|Manntown|Hahn Inc|Stone IPA|Belgian Strong Ale
+4259672|21211979/82|6318454|02/08/2022 03:05:51|Yundtview|Lubowitz-Lubowitz|Sierra Nevada Celebration Ale|Vegetable Beer
+8203346|83688772/34|3209953|04/07/2015 09:50:00|Bellaburgh|Hoppe, Hoppe and Hoppe|Duvel|European Amber Lager
+5710707|23244296/47|8942735|25/05/2018 18:37:48|East Cristina|Kovacek, Kovacek and Kovacek|Trois Pistoles|Porter
+2228935|23267989/67|4229251|09/11/2020 20:05:15|Port Berthatown|Glover-Glover|Arrogant Bastard Ale|India Pale Ale
+4223693|37763353/88|0222537|04/02/2015 15:26:55|South Marcellaborough|Krajcik, Krajcik and Krajcik|Bell’s Expedition|European Amber Lager
+1000887|89722411/01|7910712|16/04/2017 07:41:38|Yadiraland|Larson-Larson|La Fin Du Monde|Sour Ale
+0177988|91223158/45|7105477|02/06/2015 05:33:31|Dexterville|Romaguera, Romaguera and Romaguera|Oak Aged Yeti Imperial Stout|European Amber Lager
+8781972|02681052/57|0036930|05/05/2012 06:29:52|Raynorstad|Fadel and Sons|Arrogant Bastard Ale|Light Hybrid Beer
+9971826|14525949/61|7995818|25/05/2015 23:35:29|Carterview|Schaefer-Schaefer|Orval Trappist Ale|German Wheat And Rye Beer
+8338867|02542179/81|9168097|13/05/2021 06:29:02|South Deondremouth|Hirthe LLC|Pliny The Elder|European Amber Lager
+8404009|77542295/79|0353607|29/08/2015 18:15:19|Hermistonberg|Lueilwitz, Lueilwitz and Lueilwitz|Shakespeare Oatmeal|Merican Ale
+7155875|60541962/87|9960128|20/03/2016 19:03:29|Orvilleland|Dooley-Dooley|HopSlam Ale|Light Lager
+1063611|16999208/26|3894495|02/01/2013 13:42:44|Amelieport|Block, Block and Block|Westmalle Trappist Tripel|Pilsner
+6224509|16296873/08|5041809|04/10/2014 07:45:03|Abbottmouth|Mayert Group|Ruination IPA|Bock
+3947699|97331909/88|5244740|28/11/2020 05:38:29|North Myrtlefurt|Schneider-Schneider|Bourbon County Stout|English Brown Ale
+8926380|19529270/60|7839119|20/08/2017 04:54:30|West Sebastian|Turner-Turner|Old Rasputin Russian Imperial Stout|Stout
+8246991|64387969/73|9967610|24/08/2012 10:39:23|Larissachester|Turcotte LLC|Yeti Imperial Stout|Pilsner
+7229799|33848955/00|4680662|24/03/2019 00:14:25|Vincenzachester|Jacobs LLC|Old Rasputin Russian Imperial Stout|Dark Lager
+7265919|41885789/62|6815025|15/03/2016 21:03:00|Madisonview|Stark, Stark and Stark|Péché Mortel|German Wheat And Rye Beer
+6565293|86892714/67|4532916|14/04/2018 20:48:15|Schusterburgh|Bartell-Bartell|Ten FIDY|Belgian And French Ale
+6632900|85599279/61|4434142|11/12/2016 02:48:10|Tyrellmouth|Collier, Collier and Collier|HopSlam Ale|Light Lager
+8031493|83582576/40|7643315|23/12/2013 13:39:53|West Avastad|Beatty Inc|Duvel|English Brown Ale
+0930679|37615695/39|8618638|09/08/2021 23:04:15|Beahanfurt|Sipes, Sipes and Sipes|Samuel Smith’s Oatmeal Stout|Wood-aged Beer
+4049284|02880598/17|0616975|27/02/2019 18:32:02|West Faustino|Gleichner, Gleichner and Gleichner|Arrogant Bastard Ale|Amber Hybrid Beer
+6117277|28232527/97|6038755|03/11/2017 00:52:21|Boyermouth|Romaguera Inc|Trappistes Rochefort 10|Light Hybrid Beer
+4405599|94178518/73|9796182|01/06/2019 19:59:40|New Judah|Wolff, Wolff and Wolff|Brooklyn Black|Light Lager
+9877130|73552522/25|5490755|25/01/2015 13:19:26|West Dexterfurt|Murazik Inc|Hennepin|Dark Lager
+9748879|13518347/71|5273275|18/12/2022 12:09:49|Faheytown|Toy, Toy and Toy|Shakespeare Oatmeal|Vegetable Beer
+3659636|31152876/10|1691684|19/07/2012 12:12:43|Schillerchester|Heller, Heller and Heller|Storm King Stout|Light Lager
+6527448|60091152/89|1019760|12/12/2020 17:02:47|New Noah|Eichmann and Sons|Yeti Imperial Stout|European Amber Lager
+0247468|67875035/48|3971228|11/07/2018 14:16:49|Port Jordi|Harris, Harris and Harris|Westmalle Trappist Tripel|Sour Ale
+5455729|59018519/30|8858066|19/07/2013 00:56:46|North Davionchester|Rempel, Rempel and Rempel|La Fin Du Monde|Smoke-flavored
+2609079|11094748/01|4516130|02/03/2014 15:33:43|North Amalia|Hauck, Hauck and Hauck|90 Minute IPA|English Brown Ale
+3625110|80273465/25|6596679|31/01/2021 06:34:22|South Kirk|McCullough-McCullough|90 Minute IPA|Smoke-flavored
+3553874|74393639/88|5434444|26/04/2017 02:32:21|Reymundoburgh|Gibson-Gibson|Maudite|Fruit Beer
+8467129|22967633/35|9884509|13/02/2015 01:11:02|East Nathenborough|Friesen LLC|Bourbon County Stout|Fruit Beer
+8132056|07546961/48|9396600|26/01/2021 19:52:33|West Elinorhaven|Greenholt, Greenholt and Greenholt|Nugget Nectar|Light Hybrid Beer
+5467574|45762339/89|9607929|18/10/2018 19:14:26|Nicklausbury|Lowe and Sons|Storm King Stout|Dark Lager
+5190984|04468335/34|3980886|13/05/2012 10:12:58|Bellbury|Waters Inc|Ruination IPA|German Wheat And Rye Beer
+3690626|19947949/49|1613847|30/07/2017 23:02:18|South Leonardhaven|Sawayn, Sawayn and Sawayn|Edmund Fitzgerald Porter|Belgian Strong Ale
+5988345|20906099/37|9178714|12/02/2013 00:57:14|South Quentinstad|Fahey and Sons|Racer 5 India Pale Ale, Bear Republic Bre|Merican Ale
+6390385|70396027/68|0440804|23/09/2013 00:58:08|South Brenna|Emard-Emard|Chimay Grande Réserve|Stout
+1252189|78803659/16|6153274|25/02/2021 23:09:53|Baileyberg|Crooks-Crooks|Storm King Stout|Wood-aged Beer
+8670439|50801037/35|8296031|12/03/2018 04:43:59|Collinsside|Jacobi-Jacobi|Shakespeare Oatmeal|Scottish And Irish Ale
+0198418|82911936/46|5859555|08/12/2012 14:11:43|North June|Becker, Becker and Becker|Storm King Stout|Scottish And Irish Ale
+6341428|24809026/42|0662681|26/09/2012 10:59:49|South Pablo|Stamm, Stamm and Stamm|Trois Pistoles|Stout
+4216603|70323412/32|1709866|19/04/2012 01:05:11|Demarcotown|Shields and Sons|Edmund Fitzgerald Porter|English Pale Ale
+6740250|67234990/02|0552416|17/04/2013 17:17:21|Kristinaton|Kunde, Kunde and Kunde|Double Bastard Ale|Dark Lager
+2921993|04688059/00|8151484|11/06/2022 20:07:43|New Velva|Armstrong and Sons|Orval Trappist Ale|European Amber Lager
+3838574|38200421/70|4301493|09/06/2016 13:03:26|Tommieton|Legros and Sons|Founders Breakfast Stout|India Pale Ale
+9737327|97218120/27|8028283|30/10/2020 21:51:00|Port Alexandrea|Towne, Towne and Towne|Sierra Nevada Celebration Ale|Light Lager
+3439088|80785914/08|2208845|18/10/2013 17:47:18|Bernadetteside|Stroman, Stroman and Stroman|Duvel|Pilsner
+9365762|53046508/64|5819660|19/07/2021 01:48:43|Aubreystad|Mills-Mills|Samuel Smith’s Oatmeal Stout|Scottish And Irish Ale
+5177904|31643134/94|4929664|06/06/2022 09:15:05|Kohlerville|Kuhic, Kuhic and Kuhic|Nugget Nectar|Scottish And Irish Ale
+5701560|62134709/95|7709608|20/08/2016 21:59:41|New Gerhard|Ferry LLC|Two Hearted Ale|Stout
+4004665|07486660/72|8229797|26/06/2012 04:03:05|Makenziefurt|Bailey LLC|Sierra Nevada Bigfoot Barleywine Style Ale|Belgian Strong Ale
+0844339|62007569/52|5158208|12/01/2012 04:45:08|New Nicolettebury|Herman LLC|Samuel Smith’s Imperial IPA|Belgian Strong Ale
+2006720|13386136/58|4684890|04/09/2014 05:54:49|Port Nicklausberg|Collins-Collins|La Fin Du Monde|Porter
+1719314|72980278/29|3479139|21/09/2020 21:13:10|Jarvismouth|Rolfson and Sons|Dreadnaught IPA|European Amber Lager
+3078210|26128660/84|6479547|22/09/2016 04:07:30|Muellertown|Feest, Feest and Feest|Maharaj|German Wheat And Rye Beer
+8903065|43906151/27|4600763|11/10/2013 06:53:52|North Dedric|Reichert LLC|Trappistes Rochefort 10|India Pale Ale
+4348825|71556478/84|3129503|19/07/2021 06:36:07|Spencerfurt|Lakin LLC|Weihenstephaner Hefeweissbier|Belgian And French Ale
+7270611|55826910/00|6533389|04/06/2020 07:37:56|MacGyverstad|McDermott, McDermott and McDermott|Old Rasputin Russian Imperial Stout|English Pale Ale
+7378176|43716779/49|4889270|28/08/2022 22:32:23|West Nasirmouth|Abbott, Abbott and Abbott|Ten FIDY|German Wheat And Rye Beer
+1330018|75968282/03|9530223|15/11/2019 11:26:27|Lake Sabrinaberg|Feil-Feil|Shakespeare Oatmeal|Belgian Strong Ale
+6380637|61337183/26|4454636|04/06/2012 09:47:49|Port Anthony|Bogisich and Sons|Samuel Smith’s Oatmeal Stout|Scottish And Irish Ale
+0570830|64088023/16|6946895|11/07/2022 18:42:54|Laurynborough|Morissette Group|Hennepin|Stout
+3794200|56177246/68|5895317|26/06/2017 07:49:59|West Selena|Shields, Shields and Shields|Brooklyn Black|Strong Ale
+8162368|57151761/76|5507353|29/01/2014 00:02:53|South Kileyland|Mante, Mante and Mante|Ruination IPA|Pilsner
+7501416|16184378/21|3493650|02/11/2014 11:48:01|Marvintown|Wunsch and Sons|Chocolate St|Scottish And Irish Ale
+4546055|14993717/96|2379393|26/12/2020 22:47:54|Antwanside|Goodwin LLC|Duvel|Vegetable Beer
+1466345|97400965/29|2390088|26/08/2016 17:17:50|South Barrettside|Schaefer LLC|Hercules Double IPA|India Pale Ale
+0866740|06837979/73|9734239|13/02/2018 07:44:25|East Garfield|Glover Group|Hop Rod Rye|Merican Ale
+8257195|69348990/90|0192020|24/01/2021 18:44:16|Orenland|Reynolds LLC|Trappistes Rochefort 8|English Pale Ale
+5312072|74570528/86|5135162|29/09/2017 15:07:44|East Libbieberg|Brown Inc|Founders Breakfast Stout|Scottish And Irish Ale
+7370256|30867181/25|2340755|17/06/2016 03:49:33|Othomouth|Nicolas, Nicolas and Nicolas|Old Rasputin Russian Imperial Stout|English Pale Ale
+9912866|71672863/68|1197902|27/06/2012 00:33:46|Larkinborough|Kulas, Kulas and Kulas|Pliny The Elder|German Wheat And Rye Beer
+2099874|45923637/56|9150787|29/11/2017 11:52:47|North Tonyfort|Price-Price|Old Rasputin Russian Imperial Stout|English Brown Ale
+0473670|75150132/26|6167677|27/07/2016 20:56:26|Bergstromchester|Keebler-Keebler|Samuel Smith’s Imperial IPA|Smoke-flavored
+0475903|34415955/36|8261828|27/10/2015 02:13:38|Lake Laurine|Sporer Inc|Schneider Aventinus|Strong Ale
+4119695|07640679/89|6002709|08/04/2012 21:56:50|Lake Armani|Larkin-Larkin|Ten FIDY|Belgian Strong Ale
+4482669|38710187/48|1136776|31/10/2019 03:37:44|North Jakob|Kris, Kris and Kris|La Fin Du Monde|Stout
+7607979|24017130/00|0712095|03/01/2014 14:31:12|Port Cory|O'Reilly and Sons|Founders Breakfast Stout|Light Lager
+1860517|41285178/19|6635171|22/11/2015 13:52:24|East Mohamedport|Altenwerth Group|La Fin Du Monde|English Pale Ale
+7872708|36199484/32|0699607|15/09/2012 14:30:28|Jeramiestad|Trantow LLC|90 Minute IPA|Vegetable Beer
+3641577|17287724/17|9576819|12/07/2014 16:08:54|Rigobertoburgh|Shanahan-Shanahan|Westmalle Trappist Tripel|Strong Ale
+9454719|30493032/24|7257183|24/10/2018 21:12:12|East Doug|Prohaska and Sons|Samuel Smith’s Oatmeal Stout|Belgian And French Ale
+8723606|54692800/15|2503667|06/03/2020 20:08:06|Veumfurt|Towne Inc|Shakespeare Oatmeal|Stout
+9374584|78148563/61|8397084|12/01/2016 15:22:52|South Kim|Heller-Heller|Weihenstephaner Hefeweissbier|English Pale Ale
+4337398|27880643/62|1839627|28/08/2018 19:55:19|Ornchester|Huel-Huel|HopSlam Ale|Strong Ale
+4956398|73669855/39|7392089|04/12/2012 03:55:33|Lake Oswaldmouth|Runte, Runte and Runte|Racer 5 India Pale Ale, Bear Republic Bre|Dark Lager
+5226616|43985385/06|6943738|26/11/2020 05:15:50|Marlenefurt|Spencer Group|Alpha King Pale Ale|Strong Ale
+2303489|25391332/67|2394861|05/02/2013 17:39:25|West Sean|Nolan-Nolan|Hercules Double IPA|Pilsner
+2932714|12126302/34|9668841|19/02/2022 04:32:31|West Friedrichshire|Hickle, Hickle and Hickle|90 Minute IPA|English Pale Ale
+4640598|38563609/85|3934485|16/04/2016 16:51:33|North Clovis|Hartmann-Hartmann|Stone Imperial Russian Stout|Merican Ale
+8914333|77839317/89|5795931|24/07/2021 18:24:37|North Vernonport|Anderson and Sons|Sublimely Self-Righteous Ale|Light Lager
+6729785|22966040/83|5512795|18/03/2016 08:11:40|New Marilyne|Schaefer-Schaefer|HopSlam Ale|Dark Lager
+7746881|88414728/66|8005002|13/01/2021 20:55:16|Baumbachport|Jacobi, Jacobi and Jacobi|Trappistes Rochefort 8|Scottish And Irish Ale
+0954311|78106730/66|4022537|23/06/2012 22:39:23|Annehaven|Thiel-Thiel|Dreadnaught IPA|European Amber Lager
+1729690|73804279/08|2406585|17/09/2018 23:27:11|Jessikabury|Bednar Group|Hop Rod Rye|German Wheat And Rye Beer
+6785086|21122927/67|8656498|18/07/2012 07:08:38|Mosciskiville|Corkery LLC|Shakespeare Oatmeal|Belgian And French Ale
+6993412|34927611/95|2293678|06/03/2022 15:19:14|West Reggie|Kling-Kling|Edmund Fitzgerald Porter|Wood-aged Beer
+7460933|27424961/63|7335755|05/01/2021 19:12:57|Lindgrenfurt|Okuneva-Okuneva|Two Hearted Ale|Belgian And French Ale
+6699693|51126781/51|7278337|28/05/2017 17:59:08|Edenburgh|Kessler-Kessler|Duvel|Pilsner
+1911506|57377556/57|3227747|13/10/2017 23:22:30|North Katarinamouth|Botsford, Botsford and Botsford|Yeti Imperial Stout|English Pale Ale
+0586551|46820541/02|1722432|19/07/2016 01:14:38|East Emanuel|Barrows, Barrows and Barrows|Oaked Arrogant Bastard Ale|Vegetable Beer
+9700112|26261150/68|3613037|28/11/2013 02:56:56|Port Wilfred|Cartwright, Cartwright and Cartwright|HopSlam Ale|Bock
+2663917|69770400/77|7138196|21/11/2018 06:40:03|Shaynaside|Hermann, Hermann and Hermann|Hennepin|Scottish And Irish Ale
+4460958|16282081/18|2679949|05/02/2012 04:34:29|New Paoloside|Kub LLC|Hercules Double IPA|Porter
+4981488|67705662/94|8037522|07/06/2014 19:28:22|Lubowitzstad|Ritchie LLC|Edmund Fitzgerald Porter|Belgian And French Ale
+2823258|09301516/07|2331809|26/12/2014 10:39:48|South Fayside|Kuvalis, Kuvalis and Kuvalis|90 Minute IPA|Merican Ale
+4190780|53291523/14|6561651|12/12/2020 14:04:37|Dangelochester|Conroy-Conroy|Yeti Imperial Stout|Fruit Beer
+8646072|26990341/71|4697316|02/08/2017 05:11:56|New Tinashire|Reynolds-Reynolds|Alpha King Pale Ale|Merican Ale
+9207658|30199217/16|5844860|13/10/2012 13:50:14|Krisside|Jacobson, Jacobson and Jacobson|Péché Mortel|Smoke-flavored
+1106218|28089250/15|5405199|04/11/2013 20:41:11|Lake Jaylanfurt|Renner Group|Samuel Smith’s Imperial IPA|Porter
+3786615|37554105/80|4568498|27/02/2014 16:47:14|West Tyrese|Senger-Senger|Yeti Imperial Stout|Bock
+8775092|49814795/77|6400842|20/07/2022 19:51:59|Lake Marisolhaven|Stracke-Stracke|Nugget Nectar|Smoke-flavored
+0047047|22415939/28|1828809|23/01/2014 22:36:54|Lake Antwontown|Mertz LLC|Oak Aged Yeti Imperial Stout|Light Hybrid Beer
+4622985|92185484/11|7597391|10/11/2018 04:04:29|South Laurenceberg|Considine, Considine and Considine|Samuel Smith’s Oatmeal Stout|Fruit Beer
+1574008|93039323/40|3101385|28/09/2016 19:38:23|Alexandrostad|Zemlak-Zemlak|Stone Imperial Russian Stout|Smoke-flavored
+4798635|80791258/48|4141004|29/10/2016 01:29:22|West Hattie|Stanton-Stanton|Duvel|Scottish And Irish Ale
+9595775|10147254/24|0949347|04/07/2015 09:43:14|Lake Jarrodton|Smith, Smith and Smith|Ten FIDY|Scottish And Irish Ale
+8326973|79313869/94|4521304|22/10/2014 04:23:12|Damonfurt|McKenzie, McKenzie and McKenzie|Sublimely Self-Righteous Ale|Sour Ale
+7973616|19975174/71|5104202|25/09/2018 10:42:30|New Coy|Zieme-Zieme|Maharaj|Amber Hybrid Beer
+4442381|96488658/40|5091018|27/02/2021 12:27:25|North Marjoriebury|Abshire Inc|Brooklyn Black|Scottish And Irish Ale
+5051272|53870468/86|1177360|28/06/2020 06:35:24|Cartwrightside|Larson-Larson|Racer 5 India Pale Ale, Bear Republic Bre|English Brown Ale
+2635118|30506141/79|7598715|18/02/2019 19:50:19|Lake Florian|Sanford, Sanford and Sanford|Stone Imperial Russian Stout|Belgian And French Ale
+0538360|42935549/83|2211714|13/11/2019 07:42:35|Enashire|Barton Inc|Dreadnaught IPA|Merican Ale
+9416754|00746365/81|6813744|03/11/2022 02:58:15|Danniemouth|Rice, Rice and Rice|Duvel|European Amber Lager
+9208950|51314071/15|1247199|09/01/2019 15:22:29|Cummeratatown|Rath Inc|Hop Rod Rye|German Wheat And Rye Beer
+6564001|69572220/62|1776177|01/08/2022 21:03:44|Ziemannbury|Gleichner-Gleichner|Arrogant Bastard Ale|India Pale Ale
+6984270|14414351/36|9370388|21/12/2018 12:19:29|Gracieville|Corkery, Corkery and Corkery|Stone IPA|English Brown Ale
+4248502|40908869/38|3453119|25/10/2019 01:11:24|East Carolineton|Glover-Glover|Trappistes Rochefort 10|Porter
+7059619|37127918/33|8482247|11/11/2018 07:00:09|Birdiefort|Kuhlman-Kuhlman|Hennepin|Bock
+3537923|98856449/15|6676819|14/12/2017 21:20:27|Lake Sabryna|Kessler LLC|Stone IPA|Sour Ale
+3151614|30750664/59|8737851|24/12/2012 20:30:39|Tanyaborough|Ruecker, Ruecker and Ruecker|Trappistes Rochefort 10|Bock
+7446620|79406955/22|7956909|27/07/2018 03:30:14|West Elliot|Stark Inc|Chocolate St|India Pale Ale
+1883055|74780098/10|1378041|19/07/2020 06:29:43|Kuhlmanchester|Muller Inc|Péché Mortel|Pilsner
+2878132|39165453/58|4847207|14/10/2020 06:58:46|Bryonchester|O'Connell, O'Connell and O'Connell|Trappistes Rochefort 10|English Pale Ale
+6550933|63017833/87|1563958|05/08/2021 23:51:32|Arvelland|Dickinson, Dickinson and Dickinson|Trappistes Rochefort 8|Stout
+6807860|69836685/66|0955408|15/07/2019 08:58:49|Celineland|Lindgren-Lindgren|Orval Trappist Ale|Amber Hybrid Beer
+8489465|02358601/10|4595557|15/11/2019 05:40:29|Billtown|Wilderman, Wilderman and Wilderman|Alpha King Pale Ale|Amber Hybrid Beer
+6362814|20913575/19|6526396|24/03/2019 12:59:03|Friesenshire|Dicki LLC|Ruination IPA|Smoke-flavored
+8221509|76928640/25|3473758|06/06/2016 17:48:20|New Cassandrahaven|Hilll Inc|Ten FIDY|Bock
+7793458|09465650/14|2639542|27/05/2022 07:30:29|Thielfurt|Schamberger Group|Hercules Double IPA|Fruit Beer
+3110538|47977134/68|5889808|25/12/2021 22:41:05|Port Dinaton|Fahey-Fahey|Samuel Smith’s Imperial IPA|Amber Hybrid Beer
+7799518|63781723/82|1577912|06/02/2019 01:23:39|Breitenbergborough|Bergnaum LLC|Trappistes Rochefort 10|Amber Hybrid Beer
+2704695|51663989/54|9475871|02/03/2012 14:24:30|East Gustown|Mills and Sons|Founders Kentucky Breakfast|Strong Ale
+4059301|00849329/59|1913016|25/02/2012 08:59:09|Lake Sammieland|Block Inc|Péché Mortel|Wood-aged Beer
+8902409|85107202/28|5718926|01/04/2015 12:28:28|East Annabelleburgh|Nitzsche-Nitzsche|La Fin Du Monde|Fruit Beer
+2199793|75021078/50|2631279|12/07/2015 11:29:33|Kuhicside|Schumm Inc|Bell’s Expedition|English Brown Ale
+9385015|69388654/62|3405732|21/04/2017 13:20:24|Schoenport|Ruecker-Ruecker|Trappistes Rochefort 10|Stout
+0601251|80250928/16|9590090|19/01/2020 15:44:27|Dagmarfurt|Roberts, Roberts and Roberts|Samuel Smith’s Oatmeal Stout|Dark Lager
+1427495|23644362/80|1719122|09/04/2016 10:55:32|Soledadside|Goodwin Group|Stone Imperial Russian Stout|Wood-aged Beer
+1637679|30363894/34|5744978|15/10/2014 08:31:31|Port Charlie|King LLC|Sierra Nevada Celebration Ale|Stout
+2724035|20726257/26|6741538|03/06/2017 07:29:10|West Dariana|Ankunding, Ankunding and Ankunding|Trappistes Rochefort 8|Scottish And Irish Ale
+5788846|68574975/90|6043071|02/09/2012 11:41:26|North Kurtiston|Brekke-Brekke|Founders Breakfast Stout|Smoke-flavored
+2367529|30851336/59|6693376|27/02/2021 01:12:07|Trevionstad|Okuneva Group|Chocolate St|Light Lager
+4684149|05429708/37|0009369|08/12/2020 02:01:18|North Sigmundville|Hauck, Hauck and Hauck|Bourbon County Stout|Smoke-flavored
+0052060|43620807/33|8602445|29/06/2014 02:21:22|New Gabrielchester|MacGyver-MacGyver|Sublimely Self-Righteous Ale|German Wheat And Rye Beer
+1935341|91826939/45|1171023|24/03/2017 10:09:55|Muellerton|Corwin, Corwin and Corwin|Orval Trappist Ale|Pilsner
+3179964|16760164/58|2610654|12/05/2018 13:20:27|Leuschkestad|Quitzon-Quitzon|Stone Imperial Russian Stout|Sour Ale
+1105822|97855324/85|1122852|19/01/2015 08:23:35|West Brettberg|Brown-Brown|Celebrator Doppelbock|Belgian And French Ale
+8618763|15636566/08|6432328|26/07/2014 22:04:18|Ignatiusfurt|Rodriguez, Rodriguez and Rodriguez|Yeti Imperial Stout|Amber Hybrid Beer
+3946295|52071199/65|1456556|08/04/2021 06:15:21|North Sandra|Gerhold Inc|Maudite|Strong Ale
+3056925|51830517/22|7448928|27/09/2015 11:27:10|New Aryannahaven|Raynor-Raynor|Samuel Smith’s Oatmeal Stout|Porter
+7293535|63070386/34|8914085|09/07/2021 08:13:14|Hodkiewiczton|Turcotte-Turcotte|La Fin Du Monde|English Pale Ale
+5544697|53237509/57|9525319|17/03/2012 17:31:10|Cormierberg|Weissnat, Weissnat and Weissnat|Dreadnaught IPA|English Brown Ale
+4652140|23735918/96|3763501|26/11/2018 11:48:45|Abbottview|Hudson, Hudson and Hudson|Maudite|Scottish And Irish Ale
+1976162|21260516/27|9689788|28/05/2014 18:59:56|Laneyshire|Feeney-Feeney|Dreadnaught IPA|Bock
+4557875|20999999/81|8078780|10/01/2013 07:52:43|Port Francesca|Donnelly, Donnelly and Donnelly|St. Bernardus Abt 12|Smoke-flavored
+7496812|15453949/87|8327476|18/09/2019 19:51:56|North Alexandroton|Smitham Inc|Pliny The Elder|Bock
+8343646|03016362/67|7865745|02/04/2019 16:18:21|South Deanna|Kuhic, Kuhic and Kuhic|Edmund Fitzgerald Porter|India Pale Ale
+8252015|63534831/83|8124806|27/08/2019 12:30:31|Shanelview|Fritsch-Fritsch|Edmund Fitzgerald Porter|India Pale Ale
+5272523|45586737/33|5152469|20/07/2014 07:19:42|South Kevon|Halvorson Inc|Orval Trappist Ale|Scottish And Irish Ale
+8767432|69837423/06|4187923|29/12/2017 11:09:11|South Cristina|O'Connell Group|Ruination IPA|Light Hybrid Beer
+3108146|18857543/88|7599772|05/08/2017 06:02:29|Wehnerburgh|Abbott-Abbott|Weihenstephaner Hefeweissbier|Strong Ale
+6438546|97386608/07|6303780|27/08/2021 03:51:33|Shermanshire|Kautzer-Kautzer|Westmalle Trappist Tripel|Scottish And Irish Ale
+9166245|82984478/54|6260040|22/07/2017 07:19:29|Wardport|Morar-Morar|Double Bastard Ale|Merican Ale
+4914949|37529666/00|1525649|21/01/2021 22:20:11|Jeffereyville|Mills Inc|Maharaj|Amber Hybrid Beer
+8658555|97149322/99|8082634|29/07/2021 17:56:33|Port Paul|Prosacco, Prosacco and Prosacco|90 Minute IPA|Strong Ale
+4263013|15393555/98|6071821|20/10/2022 07:40:18|South Raefurt|Hudson and Sons|Storm King Stout|English Brown Ale
+1048784|29814756/10|7344392|01/12/2013 02:43:14|East Ashtyn|Thompson, Thompson and Thompson|Trappistes Rochefort 10|Dark Lager
+1534601|33874115/91|0211689|12/12/2014 08:04:30|Port Van|Brakus and Sons|Trappistes Rochefort 10|India Pale Ale
+0264301|54245739/47|3819600|23/05/2012 07:28:07|Sigmundfort|Berge LLC|Stone Imperial Russian Stout|Belgian Strong Ale
+3062212|09954751/69|0870688|25/07/2016 15:50:30|Jakubowskifurt|Hickle Group|Trappistes Rochefort 10|Belgian Strong Ale
+9408627|91940500/19|9032229|22/09/2020 18:11:24|Demarcoside|Johnston, Johnston and Johnston|Stone Imperial Russian Stout|German Wheat And Rye Beer
+5877208|97521786/70|0464043|02/01/2012 21:53:58|West Orion|Rolfson Inc|Trappistes Rochefort 10|Merican Ale
+6348213|44776543/76|8759444|11/06/2022 23:16:29|Karsonbury|Bergnaum-Bergnaum|La Fin Du Monde|Wood-aged Beer
+1165398|18266339/23|3686985|12/07/2013 16:34:08|Waelchiside|Corwin Group|Weihenstephaner Hefeweissbier|Sour Ale
+9008205|51064139/14|4145151|30/07/2020 01:43:40|Deltafurt|O'Conner-O'Conner|Bourbon County Stout|Light Hybrid Beer
+5333654|20863156/94|7237640|05/09/2016 18:58:41|Quigleychester|Gulgowski-Gulgowski|Duvel|Wood-aged Beer
+6003978|79572100/92|8266584|16/12/2014 14:26:30|Ziemeberg|Kunde-Kunde|Péché Mortel|English Pale Ale
+1193364|35419256/91|4364797|25/09/2017 12:10:25|West Sincereland|Goyette, Goyette and Goyette|Orval Trappist Ale|German Wheat And Rye Beer
+5413066|67842180/75|2783385|13/08/2016 23:37:56|New Margarette|O'Reilly LLC|Hennepin|Strong Ale
+6757220|85490633/73|9740122|19/07/2015 22:22:36|Aniyahfurt|Pfeffer, Pfeffer and Pfeffer|Sublimely Self-Righteous Ale|Merican Ale
+7564686|49421648/09|3019492|09/11/2012 19:55:00|Lake Madonna|Schinner-Schinner|Bell’s Expedition|Wood-aged Beer
+0735931|28496053/60|9412859|29/05/2018 02:51:45|South Bethelhaven|Pollich-Pollich|Pliny The Elder|Amber Hybrid Beer
+7480810|65194222/03|4890178|05/12/2018 13:39:49|West Buckhaven|Ernser Group|Sierra Nevada Celebration Ale|Light Lager
+6790623|92896544/78|3131274|12/04/2017 22:44:44|Nikolausville|Parker, Parker and Parker|Westmalle Trappist Tripel|Fruit Beer
+7583917|00865643/79|8815982|03/09/2016 09:04:11|North Alessandroland|Nader, Nader and Nader|Storm King Stout|Bock
+9064048|37911600/22|8529259|07/01/2014 05:06:34|Malloryfort|Rogahn and Sons|Brooklyn Black|Light Lager
+9663188|32790378/08|5477814|02/01/2014 23:05:27|Madgemouth|Cummings, Cummings and Cummings|Bell’s Expedition|English Brown Ale
+6495930|13861874/10|2538759|22/02/2021 06:14:20|Krajcikside|Strosin, Strosin and Strosin|Trappistes Rochefort 8|Bock
+2584881|14027120/21|0258192|12/11/2013 23:45:27|Mertzborough|Grant LLC|Storm King Stout|India Pale Ale
+0209926|06307382/62|3828079|05/11/2013 17:28:01|East Curtbury|Corkery, Corkery and Corkery|Founders Kentucky Breakfast|German Wheat And Rye Beer
+2011920|24479196/86|4575782|16/01/2016 12:15:08|Quigleybury|White-White|Chimay Grande Réserve|Wood-aged Beer
+6837912|26270052/74|0883874|12/01/2013 23:44:42|Roslynborough|Erdman, Erdman and Erdman|Double Bastard Ale|European Amber Lager
+5169807|72962756/20|8151230|30/04/2015 09:14:32|East Virgieview|Carroll-Carroll|Samuel Smith’s Imperial IPA|Light Hybrid Beer
+8873551|43952064/74|5202201|06/08/2016 19:08:14|Darwinfort|Toy Group|Sierra Nevada Bigfoot Barleywine Style Ale|Wood-aged Beer
+3394815|37787889/48|6433747|11/06/2012 17:54:19|Lake Alvera|Nikolaus-Nikolaus|Sierra Nevada Bigfoot Barleywine Style Ale|Belgian And French Ale
+2985983|21413990/41|8470997|15/07/2012 22:05:42|Port Alvera|Christiansen, Christiansen and Christiansen|Racer 5 India Pale Ale, Bear Republic Bre|Amber Hybrid Beer
+9716128|30829728/19|7888376|02/04/2018 11:24:45|Zenaburgh|Smith, Smith and Smith|Chocolate St|Belgian Strong Ale
+9688700|18968660/01|0820835|18/01/2012 07:42:59|West Janet|Stokes-Stokes|La Fin Du Monde|German Wheat And Rye Beer
+6949224|47913993/38|6473157|02/07/2012 02:52:24|Beatricestad|Okuneva-Okuneva|Maudite|Smoke-flavored
+1806256|44925654/16|7269741|16/08/2016 18:49:54|Lake Clarabelle|Leannon, Leannon and Leannon|Brooklyn Black|Amber Hybrid Beer
+1140395|32682810/62|9778554|19/10/2015 12:35:41|Framiland|McLaughlin-McLaughlin|Hop Rod Rye|Scottish And Irish Ale
+4852783|42414003/23|5052100|10/10/2019 13:14:20|West Cicero|Boehm, Boehm and Boehm|Péché Mortel|Dark Lager
+1183607|83029485/64|9088658|01/03/2021 00:01:22|Lawsonbury|Nader-Nader|Founders Kentucky Breakfast|India Pale Ale
+5167953|18955908/71|2699628|20/06/2018 01:55:38|North Name|Hodkiewicz-Hodkiewicz|Péché Mortel|Dark Lager
+0173793|23783359/56|0569496|18/08/2014 18:32:15|Aracelymouth|Bogisich-Bogisich|Péché Mortel|Merican Ale
+1017159|13357757/01|0476951|19/08/2016 16:28:59|Luciletown|Leuschke and Sons|Trois Pistoles|German Wheat And Rye Beer
+4360614|76269152/64|2687076|17/06/2014 10:07:16|Prosaccochester|Moore LLC|Ruination IPA|Light Hybrid Beer
+8646018|73263025/38|5568611|22/08/2020 00:35:04|East Kattie|Williamson LLC|Chocolate St|Sour Ale
+7100373|04037485/25|0063546|17/04/2013 18:27:58|Port Braden|Okuneva, Okuneva and Okuneva|Westmalle Trappist Tripel|English Pale Ale
+0912767|83049527/43|7369307|08/06/2020 16:08:27|Port Delaneychester|Maggio, Maggio and Maggio|Hercules Double IPA|Scottish And Irish Ale
+6166554|59270328/47|8512818|29/11/2016 03:40:37|Cheyennefurt|McKenzie LLC|HopSlam Ale|Vegetable Beer
+5825804|58166955/66|3582449|21/09/2016 06:17:19|Romanview|McGlynn and Sons|Bell’s Expedition|Pilsner
+1534216|31752838/41|1465081|08/09/2018 18:01:55|Hollisview|Shanahan Inc|Oaked Arrogant Bastard Ale|German Wheat And Rye Beer
+7810757|39996591/37|1799389|01/09/2019 18:29:56|Hassanmouth|Blick and Sons|Storm King Stout|India Pale Ale
+2500398|38332977/69|1555720|15/08/2013 22:17:02|Lolaland|Hayes, Hayes and Hayes|Stone Imperial Russian Stout|Merican Ale
+9837352|38207468/26|9453619|17/01/2016 04:15:09|Watersport|Schmeler, Schmeler and Schmeler|Sublimely Self-Righteous Ale|Porter
+2720370|43117362/38|9430796|17/06/2020 23:36:59|North Vergieville|Kunze-Kunze|Founders Breakfast Stout|Stout
+4590964|68049885/14|6480957|03/03/2015 07:14:04|West Christopher|Lesch, Lesch and Lesch|Hercules Double IPA|Strong Ale
+6524018|51977879/17|9848152|13/06/2021 22:31:10|Lonieville|Tillman-Tillman|Celebrator Doppelbock|Amber Hybrid Beer
+4770849|36085872/43|7359993|09/02/2021 14:29:15|North Tracy|Kuhic and Sons|Schneider Aventinus|Strong Ale
+3075141|99105608/83|5866919|04/07/2015 20:34:36|Ritatown|Wisoky, Wisoky and Wisoky|Shakespeare Oatmeal|Belgian Strong Ale
+6313213|16273366/24|1251224|03/09/2021 06:54:52|South Kasey|Klocko-Klocko|Brooklyn Black|Stout
+6864815|29868867/04|9537487|10/10/2021 18:55:11|New Israelport|Hane Group|Samuel Smith’s Oatmeal Stout|Stout
+8027489|29793357/04|5293688|06/05/2022 04:26:50|Gideonhaven|Schuppe, Schuppe and Schuppe|Stone IPA|Sour Ale
+6952328|35986408/71|6771881|28/09/2016 06:14:39|South Darianton|Smith-Smith|Maharaj|Vegetable Beer
+6726881|93893433/19|0233363|25/05/2020 02:43:47|Wymanland|Fay LLC|Péché Mortel|German Wheat And Rye Beer
+5279793|95874547/17|4972948|01/07/2013 05:32:42|Starkville|Rogahn, Rogahn and Rogahn|Sierra Nevada Celebration Ale|Amber Hybrid Beer
+8909362|86740682/43|2360179|27/08/2020 00:20:04|Karsonfort|Lakin, Lakin and Lakin|Celebrator Doppelbock|German Wheat And Rye Beer
+7283996|01269986/84|8075143|21/10/2020 21:04:30|Ritchieport|Simonis-Simonis|Hercules Double IPA|Belgian Strong Ale
+8625899|54707149/41|4487107|29/06/2017 10:32:40|Lake Norrisberg|Bauch-Bauch|Sierra Nevada Celebration Ale|Bock
+0299542|90410266/03|9785052|06/09/2018 19:10:25|Millsburgh|Jakubowski-Jakubowski|Samuel Smith’s Imperial IPA|Strong Ale
+3844722|00027126/03|4379559|07/02/2022 01:56:14|Volkmanton|Koepp and Sons|Nugget Nectar|Amber Hybrid Beer
+4290080|01212740/51|8457259|20/02/2013 13:38:41|Port Alvah|Rippin, Rippin and Rippin|Pliny The Elder|Dark Lager
+2423025|73882762/00|1676642|02/03/2021 13:43:42|Amayaview|Wolff and Sons|Trappistes Rochefort 10|Smoke-flavored
+6837605|69796142/84|5760047|28/11/2020 14:42:04|Schulistberg|Crona, Crona and Crona|Trois Pistoles|Merican Ale
+3097990|58856338/47|8633850|11/12/2017 17:40:09|Lake Ignacio|McClure, McClure and McClure|Ten FIDY|Light Hybrid Beer
+7546324|21200286/48|8810472|18/02/2021 21:40:50|West Dariana|Stroman-Stroman|Founders Kentucky Breakfast|Strong Ale
+6414280|54724365/81|9147461|19/11/2020 00:09:22|West Selinatown|Christiansen, Christiansen and Christiansen|Trois Pistoles|Stout
+9321057|78575085/29|1959001|03/02/2013 23:05:15|West Cierraville|Schuster-Schuster|Pliny The Elder|Dark Lager
+0900589|87603518/48|4811409|09/06/2018 10:49:00|Wizaborough|Cremin, Cremin and Cremin|Duvel|English Pale Ale
+3307672|44712603/58|9070554|16/11/2020 18:59:50|Port Kristoffer|Medhurst-Medhurst|Maudite|English Pale Ale
+1979177|52337162/58|0871901|01/05/2019 06:35:35|Sylvialand|Pfeffer Inc|Bell’s Expedition|Smoke-flavored
+9023203|74365499/49|0394007|14/03/2021 09:50:04|East Judsonmouth|Hagenes and Sons|Ten FIDY|Wood-aged Beer
+8948136|09290278/77|6977031|19/03/2019 13:34:44|Hamillmouth|Kling, Kling and Kling|Nugget Nectar|Wood-aged Beer
+1558339|23998121/10|7033743|17/08/2013 22:12:55|Kellenside|Rowe Group|Racer 5 India Pale Ale, Bear Republic Bre|Light Lager
+4173916|98483207/95|9414692|15/08/2017 18:17:56|Lake Antonette|Huels Group|Chimay Grande Réserve|Belgian Strong Ale
+1189067|71013939/01|2619947|04/11/2015 16:16:10|Lavernside|Cummerata Group|Storm King Stout|Stout
+8409199|42540239/96|4102830|01/09/2019 15:22:55|New Kendrickbury|Hegmann-Hegmann|Ten FIDY|Porter
+1587024|84570407/20|2734163|15/03/2022 06:06:27|West Jedidiah|Little, Little and Little|Old Rasputin Russian Imperial Stout|German Wheat And Rye Beer
+0343371|14422495/66|2865648|09/05/2019 11:50:17|Jeraldfurt|Lakin, Lakin and Lakin|Racer 5 India Pale Ale, Bear Republic Bre|Scottish And Irish Ale
+2754025|27300769/24|1008656|24/06/2013 01:06:55|Schadenville|Beatty Inc|Maudite|Merican Ale
+4914906|53391756/26|2112416|12/03/2018 15:19:24|Bonnieburgh|Lakin, Lakin and Lakin|Schneider Aventinus|Wood-aged Beer
+3642394|90206855/73|0308154|03/10/2021 17:36:19|Lake Percivalchester|MacGyver, MacGyver and MacGyver|Double Bastard Ale|Belgian Strong Ale
+0169374|69176358/07|8021839|17/02/2019 17:16:56|East Alannachester|Wisoky-Wisoky|Two Hearted Ale|Porter
+3491422|34172139/97|2378011|08/09/2013 13:03:08|North Anabelleton|Bartell-Bartell|Bourbon County Stout|Smoke-flavored
+4755426|59220976/58|7269101|16/04/2014 22:30:43|Croninchester|Wyman, Wyman and Wyman|90 Minute IPA|English Pale Ale
+0110174|80749903/11|7074049|12/04/2022 05:23:20|Reedtown|Kshlerin-Kshlerin|Founders Breakfast Stout|Fruit Beer
+6149458|85504571/94|8501414|16/01/2015 04:36:10|Predovicshire|Cormier Inc|Trois Pistoles|Pilsner
+5179660|67585989/64|9543594|07/04/2017 06:59:18|Juanitaview|Bartoletti Inc|Stone IPA|Strong Ale
+4634817|92087202/08|5223691|29/07/2015 22:02:13|Port Chanelview|Moen and Sons|Stone Imperial Russian Stout|Sour Ale
+5583665|88324378/62|2300572|06/12/2021 19:32:47|East Noblechester|Lueilwitz, Lueilwitz and Lueilwitz|Trois Pistoles|Dark Lager
+4637660|30760993/15|4876083|05/07/2013 16:01:46|Emardborough|Ortiz Group|Old Rasputin Russian Imperial Stout|Merican Ale
+9913527|47408912/27|7777130|30/07/2022 06:23:02|South Lamontland|Heidenreich and Sons|Bourbon County Stout|Pilsner
+3157968|64936273/06|3719641|06/11/2020 20:56:49|New Stefan|Feil, Feil and Feil|HopSlam Ale|Wood-aged Beer
+9461355|36049203/66|7136374|06/12/2014 06:38:27|Kubfort|D'Amore Inc|Bourbon County Stout|Scottish And Irish Ale
+4479525|37109395/98|3767552|01/06/2020 08:52:07|Annabellehaven|Zulauf, Zulauf and Zulauf|Edmund Fitzgerald Porter|English Pale Ale
+5997010|52172948/14|4373127|19/06/2018 23:29:10|South Astrid|Kemmer Group|Oak Aged Yeti Imperial Stout|Light Hybrid Beer
+7553391|33074713/33|3749411|25/10/2019 05:55:08|Lake Tayatown|Weber, Weber and Weber|Hercules Double IPA|Amber Hybrid Beer
+4107315|84172328/43|5256922|19/04/2014 17:21:06|Everetteberg|Rice-Rice|Pliny The Elder|Stout
+5368623|15225586/88|9611540|24/09/2013 19:14:15|New Buck|Sawayn, Sawayn and Sawayn|90 Minute IPA|Bock
+7905325|97622574/84|2262954|23/04/2021 17:09:34|East Lelia|Sawayn Inc|Samuel Smith’s Oatmeal Stout|English Pale Ale
+7348240|50279978/42|8593487|10/07/2014 21:03:59|Cristshire|Padberg-Padberg|Sierra Nevada Celebration Ale|India Pale Ale
+5714566|61085570/32|3500010|03/09/2018 01:24:08|East Haroldfurt|Carter, Carter and Carter|Weihenstephaner Hefeweissbier|Strong Ale
+4397722|45686781/99|7123226|22/04/2020 23:57:15|North Ronnyfort|Goldner-Goldner|Edmund Fitzgerald Porter|Light Lager
+4947976|99408756/83|7142714|21/03/2016 07:02:41|South Leonor|Powlowski Group|Sierra Nevada Celebration Ale|Dark Lager
+3806111|98668859/68|7283513|14/05/2017 04:28:26|Nicolasmouth|Rowe-Rowe|Trappistes Rochefort 10|Light Hybrid Beer
+8455347|22497513/69|4358059|13/03/2013 16:18:59|Pierceside|Ebert and Sons|Celebrator Doppelbock|Light Hybrid Beer
+9008637|75311711/82|0975500|04/07/2015 17:21:10|Hayesside|Goyette-Goyette|Schneider Aventinus|European Amber Lager
+8749536|30179099/90|8756726|09/05/2021 21:57:37|New Cristobal|Pollich, Pollich and Pollich|Old Rasputin Russian Imperial Stout|Porter
+5012686|53957042/85|5549806|07/09/2012 08:49:51|Lake Ephraim|Witting and Sons|Alpha King Pale Ale|Merican Ale
+8322822|41103008/24|3331160|14/09/2018 08:40:53|Port Vallieberg|Bartell-Bartell|Schneider Aventinus|Scottish And Irish Ale
+8796824|44998375/06|1745307|23/02/2020 05:04:48|North Biankahaven|Jones Group|Maudite|Light Lager
+3748448|96401836/70|8450833|27/04/2020 22:18:20|Francescoland|Hintz-Hintz|Double Bastard Ale|Light Hybrid Beer
+0785486|75557325/57|3662251|23/03/2022 21:39:16|Tyrellmouth|O'Hara-O'Hara|Stone Imperial Russian Stout|Belgian Strong Ale
+0532117|50667276/71|4812042|12/02/2014 18:29:44|North Cristalbury|Bashirian-Bashirian|Bourbon County Stout|India Pale Ale
+8020568|35690239/06|5223194|20/12/2018 16:44:49|Rohanbury|Johnston Group|Chocolate St|Wood-aged Beer
+7012518|82611366/28|7986343|20/05/2019 01:49:40|Hailiebury|Effertz-Effertz|Trappistes Rochefort 8|Belgian And French Ale
+3991374|11204553/34|8646698|29/12/2018 12:13:25|West Makennashire|Kilback Group|Arrogant Bastard Ale|Stout
+7780050|45669056/38|6675973|05/08/2014 05:16:05|New Scottiehaven|Heaney, Heaney and Heaney|Pliny The Elder|Belgian Strong Ale
+9716526|84139098/45|5525859|29/08/2020 03:30:31|Willton|Waters-Waters|Edmund Fitzgerald Porter|Vegetable Beer
+9117566|99079652/09|9690802|09/05/2013 18:47:40|East Belle|O'Keefe Inc|Trappistes Rochefort 10|Sour Ale
+0130749|02295493/26|9208727|07/01/2014 17:48:32|Lake Lessieville|Wiegand, Wiegand and Wiegand|La Fin Du Monde|German Wheat And Rye Beer
+3720403|25911046/49|4679981|18/08/2014 04:16:48|Ryanport|Little and Sons|Shakespeare Oatmeal|Wood-aged Beer
+1039920|42022290/39|3194885|01/03/2022 12:43:22|West Breanna|Funk and Sons|Stone IPA|German Wheat And Rye Beer
+9225892|91745680/11|8174804|04/12/2022 14:36:54|Macejkovicshire|Pouros-Pouros|Yeti Imperial Stout|Amber Hybrid Beer
+4045803|31148878/73|6888035|26/07/2015 07:44:56|Teaganchester|Hackett Group|Old Rasputin Russian Imperial Stout|German Wheat And Rye Beer
+6586304|66981662/03|6041122|03/10/2018 12:24:54|West Drew|Altenwerth Inc|Nugget Nectar|Bock
+9242656|89458664/34|3032641|17/07/2017 20:24:30|Barrowsbury|Kulas Group|Hercules Double IPA|English Brown Ale
+5429713|36200609/71|7901118|17/06/2017 05:29:00|South Caylaville|White LLC|Edmund Fitzgerald Porter|Scottish And Irish Ale
+7794875|38929513/88|8043799|31/10/2017 12:16:17|Manleyshire|Hamill LLC|Stone IPA|Smoke-flavored
+2407202|42531646/33|7161108|08/09/2018 18:04:19|Cummerataborough|Hauck-Hauck|HopSlam Ale|Amber Hybrid Beer
+8592695|03632139/51|0574796|23/11/2013 07:16:26|Keelingview|Lang-Lang|Old Rasputin Russian Imperial Stout|Scottish And Irish Ale
+6266276|56043959/39|7423605|09/03/2018 21:07:21|Dorisshire|Kuvalis Group|Dreadnaught IPA|Wood-aged Beer
+0726286|38229990/58|5940667|23/08/2014 20:17:43|Port Eryn|Armstrong and Sons|Founders Kentucky Breakfast|English Brown Ale
+4475084|69381645/10|0628340|09/06/2018 17:24:54|Farrellville|Kihn and Sons|Chocolate St|Light Hybrid Beer
+7077939|50323597/49|3086257|04/04/2021 00:32:59|Daniellaton|Zulauf and Sons|Yeti Imperial Stout|Sour Ale
+4371902|61341570/53|2563035|12/06/2017 10:55:12|Lake Halliefurt|Wiza Inc|Hop Rod Rye|European Amber Lager
+9672892|50283352/00|9874544|02/03/2018 09:11:16|South Brandyn|Braun-Braun|Trappistes Rochefort 10|Light Lager
+0497788|63001387/00|6526474|25/04/2017 21:43:42|East Uliseston|Kiehn and Sons|Chocolate St|Bock
+5452745|96385861/64|0725855|21/06/2013 11:53:43|New Gusberg|Halvorson LLC|Bell’s Expedition|Merican Ale
+7753464|03053613/13|3593191|20/10/2019 13:01:51|East Green|Waelchi-Waelchi|Weihenstephaner Hefeweissbier|Strong Ale
+2217446|17902477/33|4155124|11/08/2018 19:12:00|West Rene|Baumbach, Baumbach and Baumbach|Stone Imperial Russian Stout|Scottish And Irish Ale
+3124282|67665186/80|7013050|08/05/2016 13:12:29|Daytonshire|Hills and Sons|90 Minute IPA|German Wheat And Rye Beer
+8942131|74256982/78|0685555|07/06/2021 03:00:17|Vestastad|Nader, Nader and Nader|Orval Trappist Ale|Smoke-flavored
+2014984|06405401/41|8095880|10/08/2019 12:03:45|Wunschton|Kuvalis, Kuvalis and Kuvalis|Samuel Smith’s Oatmeal Stout|Light Hybrid Beer
+9066355|03282237/61|0282536|21/09/2017 05:17:01|Lake Imogeneborough|Gulgowski LLC|Maudite|Light Lager
+1574687|71509062/38|6304898|01/10/2016 03:09:42|Parkerbury|Goodwin LLC|Samuel Smith’s Imperial IPA|Amber Hybrid Beer
+1620859|16341910/54|7109314|31/03/2012 08:34:05|West Leanna|Graham-Graham|Old Rasputin Russian Imperial Stout|Sour Ale
+8137328|93290140/78|7443309|03/05/2014 11:08:07|North Thaddeus|Bahringer Inc|Schneider Aventinus|English Brown Ale
+7828639|07566729/47|6499319|20/12/2016 21:47:10|East Jamel|Orn, Orn and Orn|Orval Trappist Ale|Vegetable Beer
+9244735|78895673/58|3645865|10/05/2012 02:46:57|Cruickshankmouth|Nicolas, Nicolas and Nicolas|Nugget Nectar|European Amber Lager
+8990662|20922726/85|7505760|28/03/2015 08:03:57|South Shaina|Stark Group|Maudite|Strong Ale
+5534257|17132855/38|4986535|26/04/2017 20:04:43|Ovaburgh|Skiles LLC|Trappistes Rochefort 10|Fruit Beer
+4356244|63291641/59|0198481|10/03/2016 09:24:28|West Waldofurt|Lang-Lang|HopSlam Ale|Smoke-flavored
+8421064|53055242/21|7759739|29/01/2012 21:44:58|Gladycemouth|Cronin, Cronin and Cronin|Samuel Smith’s Oatmeal Stout|Stout
+1701495|04722076/25|6285144|15/09/2015 15:46:13|East Jess|Bernhard Inc|Maharaj|Fruit Beer
+6797873|87915024/76|9465239|08/09/2020 15:59:01|Colefurt|MacGyver-MacGyver|Alpha King Pale Ale|Strong Ale
+3222288|86831558/99|4393498|26/08/2022 10:49:39|Brakusshire|Labadie Group|Samuel Smith’s Oatmeal Stout|India Pale Ale
+6775603|13090111/23|1168698|29/03/2018 05:14:31|Roobside|Swaniawski Inc|Edmund Fitzgerald Porter|Merican Ale
+4568144|39317616/01|2036714|17/12/2016 21:21:12|Nitzscheview|Paucek LLC|Yeti Imperial Stout|Bock
+1487674|83484371/42|3635016|01/07/2020 19:04:38|East Bill|Lesch, Lesch and Lesch|HopSlam Ale|Vegetable Beer
+9860530|92244636/28|9031529|16/02/2021 05:59:16|West Spencerland|Bahringer, Bahringer and Bahringer|Edmund Fitzgerald Porter|Strong Ale
+6310917|87666420/91|3365893|05/03/2021 11:40:27|Lake Elmofurt|Runte-Runte|Hennepin|Bock
+0375847|40953461/01|3085474|22/04/2019 19:08:30|New Shemarchester|Daugherty, Daugherty and Daugherty|Weihenstephaner Hefeweissbier|Strong Ale
+2557011|11106663/21|1692046|09/09/2016 04:23:59|Lake Cole|Cassin-Cassin|HopSlam Ale|German Wheat And Rye Beer
+6213573|76746329/27|6762045|10/08/2022 12:09:47|Willport|Pacocha-Pacocha|Edmund Fitzgerald Porter|Light Lager
+8186393|48527346/15|0599885|13/07/2020 18:59:37|South Burniceside|Fay and Sons|Maharaj|Merican Ale
+2313881|49576324/45|6816079|15/07/2021 15:02:15|Karifurt|Lebsack and Sons|Schneider Aventinus|Wood-aged Beer
+7869928|96717061/26|1709234|26/06/2020 23:32:01|East Katherine|Rogahn-Rogahn|Arrogant Bastard Ale|English Brown Ale
+0447688|59259607/25|3273860|25/09/2020 08:41:34|North Sigurdhaven|VonRueden Inc|Double Bastard Ale|Vegetable Beer
+6549287|49336405/88|5719453|09/01/2015 01:54:31|Dietrichbury|Koepp-Koepp|Trappistes Rochefort 10|Merican Ale
+4564835|64840407/92|1192541|21/07/2021 04:23:58|Tiannatown|Baumbach and Sons|Sierra Nevada Celebration Ale|India Pale Ale
+8136064|64951981/54|6228843|01/05/2017 23:30:05|East Zane|Kling, Kling and Kling|Racer 5 India Pale Ale, Bear Republic Bre|English Pale Ale
+8764510|44156051/00|9613844|29/09/2013 16:52:12|Crooksview|Pouros and Sons|Brooklyn Black|Dark Lager
+6567940|48832396/00|0944006|01/12/2018 15:40:52|East Elianeborough|Wunsch, Wunsch and Wunsch|Storm King Stout|Belgian And French Ale
+8349258|46256609/02|2062629|19/04/2012 09:11:25|Mauriciotown|Krajcik, Krajcik and Krajcik|St. Bernardus Abt 12|Merican Ale
+1783873|30516688/20|4401391|14/05/2014 22:39:33|Schinnerstad|Quigley-Quigley|90 Minute IPA|Smoke-flavored
+1576226|78264169/22|1107950|02/08/2016 17:25:42|South Grahamshire|Parker-Parker|Dreadnaught IPA|Sour Ale
+7200697|55287318/95|7529297|15/09/2017 19:57:36|North Eulahview|Balistreri-Balistreri|Founders Kentucky Breakfast|English Brown Ale
+4177483|25031280/41|8272447|05/01/2012 11:15:52|South Leon|Murazik and Sons|Stone Imperial Russian Stout|Smoke-flavored
+5870999|58388392/02|0305468|02/04/2020 23:49:10|Rowlandhaven|Crist, Crist and Crist|Schneider Aventinus|Vegetable Beer
+1472907|60576762/61|3211711|20/11/2020 19:44:54|Bernierhaven|Satterfield and Sons|Hennepin|Pilsner
+6294493|40521623/72|9736135|15/03/2017 08:00:35|New Brettchester|Schamberger-Schamberger|Old Rasputin Russian Imperial Stout|Light Lager
+4643007|56468592/33|7346405|22/05/2014 18:18:11|Elijahmouth|Harber, Harber and Harber|Double Bastard Ale|Merican Ale
+9723836|44363122/17|7341142|09/06/2018 01:18:45|Timmymouth|Lesch, Lesch and Lesch|Double Bastard Ale|Scottish And Irish Ale
+6047609|82673463/78|3241566|23/09/2016 02:53:45|West Murl|Jacobi and Sons|Brooklyn Black|Light Hybrid Beer
+4848704|31031959/84|9212014|12/05/2018 00:35:53|Port Roselyn|Lang LLC|Chocolate St|German Wheat And Rye Beer
+4077598|49524852/85|5695946|12/10/2012 09:20:41|North Careychester|Pollich, Pollich and Pollich|90 Minute IPA|English Brown Ale
+0155389|72754008/22|0500556|18/08/2022 09:50:12|Vickiefort|Denesik Group|Storm King Stout|Belgian And French Ale
+2780662|45886428/72|7599387|16/08/2019 17:03:54|Johnstonstad|Cummerata-Cummerata|Shakespeare Oatmeal|Amber Hybrid Beer
+2992793|21864505/91|7648432|13/02/2014 05:12:09|Jonesberg|Corkery-Corkery|Péché Mortel|Belgian Strong Ale
+0349652|22194761/15|7825758|19/02/2016 10:41:11|Ignatiusburgh|Hoppe Inc|Maudite|Smoke-flavored
+8696718|66680174/63|9080733|10/11/2016 10:53:50|West Hollisbury|Rice LLC|Hercules Double IPA|Porter
+4081162|63178859/93|3300184|16/12/2020 06:41:08|Danielport|Wyman Group|Pliny The Elder|Belgian And French Ale
+2636559|76974020/72|1283062|26/02/2015 18:42:28|Port Jimmyside|Raynor LLC|Westmalle Trappist Tripel|Wood-aged Beer
+2047762|27997804/02|7765975|10/10/2013 18:36:26|New Osbaldofurt|Deckow and Sons|Founders Kentucky Breakfast|Wood-aged Beer
+7101555|39953566/79|8857308|15/06/2018 09:00:42|Darioberg|McLaughlin-McLaughlin|Sierra Nevada Bigfoot Barleywine Style Ale|Strong Ale
+6773931|72367916/09|9279509|27/09/2012 12:26:32|West Jaclynburgh|Collins LLC|Orval Trappist Ale|Smoke-flavored
+0892062|76533227/48|4699204|21/08/2014 09:04:40|Lake Scarlett|Reilly-Reilly|Sierra Nevada Celebration Ale|Vegetable Beer
+0062895|29507402/64|6590623|23/05/2017 18:57:41|North Berta|West LLC|Trappistes Rochefort 10|German Wheat And Rye Beer
+0980357|99907141/01|3005670|13/10/2018 16:15:56|Laronside|Satterfield, Satterfield and Satterfield|St. Bernardus Abt 12|Scottish And Irish Ale
+2412323|46159526/61|6423185|23/05/2020 06:11:42|North Alexysville|Lakin and Sons|Trois Pistoles|European Amber Lager
+5888535|88866024/53|9173943|10/05/2012 05:30:18|Carrollmouth|Boyle, Boyle and Boyle|Oaked Arrogant Bastard Ale|Merican Ale
+6890478|27661455/10|4226879|19/08/2017 21:13:14|Wisozkburgh|Murazik, Murazik and Murazik|Trappistes Rochefort 10|Wood-aged Beer
+1363008|54365923/01|5761454|07/10/2015 22:40:21|South Trentonberg|Brown-Brown|Ten FIDY|Pilsner
+2432263|80090397/17|7953381|28/06/2012 13:05:07|West Eldafort|Windler, Windler and Windler|Sublimely Self-Righteous Ale|Strong Ale
+5537816|13069020/91|9599400|01/08/2019 09:47:16|Rueckerstad|Runolfsson and Sons|Samuel Smith’s Imperial IPA|European Amber Lager
+6347280|70083309/61|6333424|07/07/2014 19:28:59|East Arjunland|Christiansen Group|Brooklyn Black|Wood-aged Beer
+6345632|82139518/70|4612953|09/10/2021 22:58:20|Alfredachester|Heidenreich-Heidenreich|Oaked Arrogant Bastard Ale|India Pale Ale
+1363171|58769325/62|8494378|16/02/2019 08:08:52|North Ayana|Lind-Lind|Maharaj|Fruit Beer
+4036579|32771032/63|7014067|18/01/2015 03:02:35|North Ninashire|Hackett-Hackett|Samuel Smith’s Oatmeal Stout|Scottish And Irish Ale
+1023293|34240272/17|0211681|20/12/2017 01:12:09|West Carmine|Kuvalis, Kuvalis and Kuvalis|Oaked Arrogant Bastard Ale|Pilsner
+7357020|39491521/31|6742649|09/12/2018 02:59:10|Doyleburgh|Watsica, Watsica and Watsica|Storm King Stout|Amber Hybrid Beer
+5893336|29971735/46|6182910|29/04/2016 00:39:36|Luettgenfurt|Stanton, Stanton and Stanton|Weihenstephaner Hefeweissbier|Light Lager
+5324515|76335301/78|5419294|17/12/2021 15:45:50|South Granville|Wuckert, Wuckert and Wuckert|Sierra Nevada Celebration Ale|Sour Ale
+9862846|29444972/91|1610559|31/10/2014 05:12:58|Helgaland|Haag, Haag and Haag|Celebrator Doppelbock|German Wheat And Rye Beer
+7681017|99143884/43|7190125|24/02/2012 20:03:53|Port Ellenberg|Marquardt, Marquardt and Marquardt|Yeti Imperial Stout|Amber Hybrid Beer
+8663580|77384577/30|5405050|12/03/2019 12:36:19|South Adrienne|Mosciski-Mosciski|HopSlam Ale|Porter
+7651805|89703233/43|5368000|31/03/2013 21:29:49|West Jadeville|Moen, Moen and Moen|Schneider Aventinus|Belgian Strong Ale
+9184018|09633173/70|0062001|17/03/2014 02:22:07|West Lamontmouth|Hayes, Hayes and Hayes|Péché Mortel|Fruit Beer
+1286468|66784794/53|7256339|20/08/2020 21:59:27|Soledadbury|Wisozk Group|Old Rasputin Russian Imperial Stout|Dark Lager
+0527280|85938006/55|8261392|22/09/2017 18:32:57|New Cynthia|Kreiger, Kreiger and Kreiger|Old Rasputin Russian Imperial Stout|Strong Ale
+1071894|11308789/09|7885869|17/02/2018 06:02:14|Jerdebury|Gibson, Gibson and Gibson|Bourbon County Stout|Vegetable Beer
+2784105|68218043/99|0395311|04/07/2020 06:07:11|New Virginie|Will, Will and Will|Racer 5 India Pale Ale, Bear Republic Bre|Fruit Beer
+3939452|94115418/39|0324431|31/05/2016 03:58:34|Hesselhaven|Larson-Larson|Ten FIDY|Dark Lager
+5595199|57587942/28|2501506|11/02/2016 14:28:20|Lake Christine|Windler-Windler|Trappistes Rochefort 10|European Amber Lager
+5500906|75457872/65|2132109|17/06/2022 20:12:17|West Carolinechester|Hartmann and Sons|Pliny The Elder|Dark Lager
+7882124|09107414/72|4239974|11/03/2020 18:32:11|Margaritaborough|Mante-Mante|Edmund Fitzgerald Porter|Stout
+0910805|43911350/24|5869420|02/03/2018 08:49:48|Hoegertown|Adams Inc|Schneider Aventinus|Amber Hybrid Beer
+4745298|86069768/88|1532215|31/05/2022 22:21:25|Mantechester|Legros-Legros|Founders Kentucky Breakfast|Stout
+3043755|61870025/06|8740846|30/12/2013 20:30:37|South Darrinport|Ortiz and Sons|Founders Breakfast Stout|Dark Lager
+9728162|53665647/62|5293651|31/08/2018 18:16:58|Katlynnshire|Hintz, Hintz and Hintz|Weihenstephaner Hefeweissbier|Fruit Beer
+4067405|72339822/97|5164370|08/01/2015 17:45:20|East Titofurt|Grady-Grady|90 Minute IPA|Bock
+1785455|77519486/30|2138456|20/09/2017 14:46:42|Scotport|Schmidt Group|Péché Mortel|India Pale Ale
+6533963|22456630/35|5363416|07/05/2013 06:01:18|West Matilda|Mraz, Mraz and Mraz|Brooklyn Black|Bock
+6475976|32997953/66|3770788|31/10/2013 22:18:32|Bogisichfort|Smitham Group|Arrogant Bastard Ale|Stout
+8742865|83720371/90|1322237|17/04/2022 11:09:27|Port Nona|Ebert, Ebert and Ebert|Ruination IPA|Belgian And French Ale
+5458962|43430598/59|8896223|14/01/2014 00:56:46|North Ottiliehaven|Paucek Inc|Hercules Double IPA|Strong Ale
+3975203|17285428/56|3884329|04/03/2021 05:08:41|McDermottbury|Zemlak Group|Double Bastard Ale|Fruit Beer
+8330329|18641277/69|6959872|05/05/2013 17:47:23|Barrowsbury|Conn Group|Stone IPA|Amber Hybrid Beer
+2201599|27151092/37|4785506|19/11/2022 07:09:38|Geovanniville|Durgan-Durgan|Trappistes Rochefort 10|India Pale Ale
+5263426|30401979/15|8608490|22/01/2019 14:43:32|Metzfurt|Abshire, Abshire and Abshire|Oak Aged Yeti Imperial Stout|India Pale Ale
+0018915|13661829/22|0596374|31/08/2014 05:10:33|Lake Zack|Pacocha-Pacocha|Bourbon County Stout|English Pale Ale
+5296033|77010206/12|8914250|22/07/2018 11:55:48|Kipmouth|Pfannerstill, Pfannerstill and Pfannerstill|Oak Aged Yeti Imperial Stout|Porter
+0536419|44256092/17|2248368|09/04/2020 14:48:50|Shawnbury|Stark Inc|Yeti Imperial Stout|Belgian Strong Ale
+1905764|17126969/99|5060582|16/06/2021 05:38:32|West Woodrowmouth|Fisher Inc|Maudite|Dark Lager
+9537667|39677263/97|1337591|07/11/2015 17:06:26|North Catherineland|Sporer-Sporer|Péché Mortel|Porter
+8419716|62318897/90|6597357|21/09/2013 04:40:24|Zemlakchester|Larson-Larson|Bell’s Expedition|English Brown Ale
+1434707|50382005/99|0558607|05/09/2021 12:16:15|Gleichnerfurt|Towne, Towne and Towne|Bell’s Expedition|German Wheat And Rye Beer
+5872648|00072146/67|6791996|28/07/2022 08:36:00|West Karleyport|Kuhlman-Kuhlman|Old Rasputin Russian Imperial Stout|Scottish And Irish Ale
+1730442|99114816/55|3244341|13/11/2015 14:42:20|Port Rozellamouth|Boyer-Boyer|Pliny The Elder|Wood-aged Beer
+9673780|60472129/34|0933789|16/09/2018 15:17:39|South Helenville|Mayer, Mayer and Mayer|Westmalle Trappist Tripel|Vegetable Beer
+0928451|01969352/26|0728385|01/12/2016 22:57:14|Olaffort|Paucek-Paucek|Dreadnaught IPA|Belgian And French Ale
+5399897|18471441/74|0071534|20/04/2015 18:27:21|North Emilie|Swaniawski-Swaniawski|Dreadnaught IPA|European Amber Lager
+0393152|41565308/91|1432589|18/11/2014 00:24:45|West Marcelina|Cummerata LLC|Sublimely Self-Righteous Ale|Light Hybrid Beer
+5470899|44249346/57|9902843|26/06/2019 00:07:08|Hettieborough|Ritchie Inc|Hennepin|Pilsner
+1405016|45436641/76|7787003|11/06/2013 16:27:47|Lucilestad|Kihn-Kihn|Old Rasputin Russian Imperial Stout|Scottish And Irish Ale
+1942349|15544325/86|5672577|04/10/2021 00:01:31|Marjorychester|Carroll and Sons|Westmalle Trappist Tripel|Light Hybrid Beer
+2150392|98811305/45|1054067|18/11/2021 14:28:13|North Zoiemouth|Rutherford-Rutherford|Arrogant Bastard Ale|Scottish And Irish Ale
+6207863|39240416/77|7309777|14/10/2019 21:06:56|West Lilly|Mohr and Sons|Dreadnaught IPA|Belgian And French Ale
+7653224|30248814/99|6136531|09/08/2018 21:46:29|West Damion|Gerhold and Sons|Shakespeare Oatmeal|European Amber Lager
+6932147|72586568/23|1972395|21/08/2017 15:03:51|Mortimerchester|Hirthe, Hirthe and Hirthe|Duvel|Merican Ale
+9585895|96303103/45|2107956|11/01/2018 08:20:05|New Lera|Collier and Sons|Stone Imperial Russian Stout|European Amber Lager
+5731959|65412064/11|3607717|19/10/2016 18:36:37|Lake Marjory|Lebsack, Lebsack and Lebsack|Double Bastard Ale|Fruit Beer
+7343732|55107992/48|6009441|08/12/2022 22:28:20|East Jerad|Kshlerin Group|Maudite|European Amber Lager
+4721095|69380552/72|5752123|10/03/2016 01:42:13|Port Brettport|Crist-Crist|Chimay Grande Réserve|Merican Ale
+6840402|74373084/44|6527378|05/05/2018 17:31:41|Port Reinholdmouth|Schoen-Schoen|Double Bastard Ale|European Amber Lager
+6692989|70307058/20|5013612|26/06/2022 16:38:21|Shannashire|Greenholt and Sons|Edmund Fitzgerald Porter|Pilsner
+9366644|13423611/71|8685143|04/05/2013 20:33:55|Lake Lexie|Kreiger, Kreiger and Kreiger|90 Minute IPA|Scottish And Irish Ale
+0241191|88239009/41|1300067|02/08/2018 09:17:58|Lockmanshire|Kling-Kling|Bourbon County Stout|European Amber Lager
+4636181|63453021/87|4557754|29/09/2016 21:22:12|Volkmanside|Upton Inc|Edmund Fitzgerald Porter|Belgian Strong Ale
+6458871|25213988/49|3301489|02/09/2018 12:06:44|Schowalterborough|Heaney-Heaney|Oaked Arrogant Bastard Ale|Pilsner
+5692546|84016701/04|2518150|30/07/2018 17:42:57|New Emeraldshire|Gutmann-Gutmann|St. Bernardus Abt 12|Stout
+4797721|16084183/01|1434817|04/09/2015 13:17:23|West Susie|Hoeger and Sons|Westmalle Trappist Tripel|English Brown Ale
+1057331|86347894/70|1692420|04/02/2022 00:32:37|Emardmouth|Glover Group|Schneider Aventinus|Fruit Beer
+3951604|10452533/51|9457752|28/12/2014 23:33:38|Lake Alessandrofort|Schmeler-Schmeler|Bell’s Expedition|Bock
+4297260|77454147/98|1035480|26/11/2012 22:54:48|East Nedra|Willms Inc|Ruination IPA|Bock
+7236374|97414724/77|4385821|16/05/2012 18:39:48|Candelarioberg|Brakus, Brakus and Brakus|Edmund Fitzgerald Porter|Sour Ale
+0376740|29934273/36|2899347|31/03/2022 18:11:28|South Sherwood|Goodwin, Goodwin and Goodwin|Double Bastard Ale|Belgian And French Ale
+3150368|09732220/08|1855351|31/03/2017 14:00:18|Murrayside|Ruecker, Ruecker and Ruecker|Storm King Stout|Strong Ale
+8751612|85950112/32|0327735|16/11/2019 20:53:53|Camylleton|Wiegand-Wiegand|Bourbon County Stout|Fruit Beer
+0524687|94197954/27|8971343|28/10/2013 00:38:52|Othachester|Conn and Sons|Sierra Nevada Bigfoot Barleywine Style Ale|Smoke-flavored
+1902889|24781660/86|9027586|17/12/2018 14:39:31|Pagacville|O'Hara Inc|Brooklyn Black|Strong Ale
+5953724|47778071/49|8045490|30/05/2022 06:43:12|Heaneybury|Eichmann and Sons|Two Hearted Ale|Amber Hybrid Beer
+4497819|21052919/13|8520092|30/11/2016 06:44:17|Port Samanta|Mitchell Group|HopSlam Ale|German Wheat And Rye Beer
+5064191|61279003/31|3063175|03/02/2022 11:51:47|Astridborough|Bartoletti, Bartoletti and Bartoletti|Two Hearted Ale|Belgian Strong Ale
+6767103|28706365/13|5965556|15/05/2018 04:52:44|East Wilbert|Green, Green and Green|Sierra Nevada Celebration Ale|Wood-aged Beer
+9942751|02903455/73|3122811|29/12/2020 06:15:43|Quitzonview|Wehner LLC|Racer 5 India Pale Ale, Bear Republic Bre|Porter
+9777232|56290102/18|9391945|01/08/2018 16:40:08|Conroystad|Ruecker Inc|Hennepin|Belgian Strong Ale
+1341689|43416861/08|1760121|27/08/2015 01:12:31|Doylestad|Blanda, Blanda and Blanda|Péché Mortel|Wood-aged Beer
+1398259|62282792/40|5904875|11/09/2018 03:47:32|Halvorsonport|Gibson LLC|Nugget Nectar|Stout
+7957919|38893853/28|9599108|06/11/2015 05:23:59|New Maryam|King, King and King|Alpha King Pale Ale|Smoke-flavored
+7274184|07415227/79|7836374|10/04/2015 02:41:19|East Noelburgh|Smith LLC|Pliny The Elder|Merican Ale
+6236345|23620536/81|0502825|24/07/2015 20:25:42|New Jaidaview|Johnston and Sons|Celebrator Doppelbock|Scottish And Irish Ale
+6366887|85765668/20|5371315|25/07/2017 05:23:05|Braunchester|Ankunding-Ankunding|Samuel Smith’s Oatmeal Stout|Light Lager
+1699809|55562541/35|8118133|15/04/2022 23:42:03|Port Alejandramouth|Bartell Group|Samuel Smith’s Imperial IPA|Strong Ale
+9245791|82892135/13|6148789|11/11/2019 19:03:08|Khalidberg|Rau, Rau and Rau|Chimay Grande Réserve|Sour Ale
+1094875|39436910/39|6256876|23/08/2012 13:25:09|Port Ricardo|Emmerich-Emmerich|Samuel Smith’s Imperial IPA|European Amber Lager
+4427175|24141184/97|6564669|27/10/2021 12:56:05|New Litzyhaven|Schuppe Group|Sublimely Self-Righteous Ale|India Pale Ale
+3215188|75125981/28|2386695|28/03/2019 03:10:44|Lake Jules|Kirlin LLC|Oak Aged Yeti Imperial Stout|German Wheat And Rye Beer
+2721594|87997475/19|3304931|17/03/2016 16:15:10|North Ellisstad|Fay-Fay|Nugget Nectar|Vegetable Beer
+4300422|53051775/10|7999091|10/09/2014 21:29:44|North Domenica|Hilpert, Hilpert and Hilpert|Sublimely Self-Righteous Ale|Pilsner
+4024376|47083896/83|1184624|26/10/2012 07:18:31|Port Brenna|Adams Group|Ten FIDY|Bock
+8832368|40799564/85|5127047|07/04/2020 04:07:17|Port Nathen|Volkman and Sons|Stone Imperial Russian Stout|Sour Ale
+1197453|98692237/17|1805214|30/11/2020 11:40:53|New Christa|Baumbach-Baumbach|Sierra Nevada Celebration Ale|German Wheat And Rye Beer
+7878928|87823471/86|6245726|24/09/2016 07:52:04|North Claystad|Daugherty, Daugherty and Daugherty|Weihenstephaner Hefeweissbier|Scottish And Irish Ale
+3974492|41881742/89|7069873|10/01/2019 13:28:30|East Shayne|Tromp-Tromp|Two Hearted Ale|Strong Ale
+0766314|69341902/59|6701056|17/11/2016 17:45:53|Arvelberg|Kertzmann, Kertzmann and Kertzmann|Ten FIDY|Belgian Strong Ale
+3721414|25863460/51|8311332|28/01/2014 19:21:35|Marksport|Johnson-Johnson|Brooklyn Black|German Wheat And Rye Beer
+8803888|62994681/34|5514388|01/07/2018 07:47:13|Elmiratown|O'Conner LLC|Chimay Grande Réserve|Sour Ale
+5504355|29155396/87|0681992|15/11/2020 18:58:22|Reichertborough|Feest Group|Dreadnaught IPA|Light Hybrid Beer
+1097333|43812250/39|3082492|12/02/2016 16:59:02|East Madonnashire|Langworth, Langworth and Langworth|Storm King Stout|Belgian And French Ale
+8145556|62977902/13|7777598|05/01/2017 05:07:16|South Okey|Gulgowski, Gulgowski and Gulgowski|Sublimely Self-Righteous Ale|Vegetable Beer
+1621491|84171022/71|4440308|21/05/2022 01:48:16|East Laurieville|Fay, Fay and Fay|Sierra Nevada Bigfoot Barleywine Style Ale|Vegetable Beer
+2842548|24661694/76|8928294|03/03/2012 06:35:32|Lake Rosetta|Lehner, Lehner and Lehner|Sierra Nevada Celebration Ale|Vegetable Beer
+0031320|89966790/97|5799890|16/05/2021 02:48:30|Heathcotehaven|Marquardt and Sons|Shakespeare Oatmeal|Amber Hybrid Beer
+6579609|31409980/70|6658233|11/03/2017 13:05:27|Laronstad|Collins-Collins|Samuel Smith’s Oatmeal Stout|Stout
+3248361|63109615/17|1560993|15/01/2018 22:52:15|North Isaiaston|Tremblay, Tremblay and Tremblay|Weihenstephaner Hefeweissbier|European Amber Lager
+8524151|98903536/28|7860663|23/01/2013 09:36:49|Rolandobury|McLaughlin LLC|Stone Imperial Russian Stout|Merican Ale
+4093144|15353897/12|7537992|02/07/2018 18:18:12|South Ruthmouth|Zemlak LLC|Stone IPA|Scottish And Irish Ale
+9145152|27458547/15|7962833|21/05/2018 18:25:32|Mullermouth|Renner, Renner and Renner|Alpha King Pale Ale|Amber Hybrid Beer
+9182198|72970921/26|1491231|23/03/2017 08:41:27|North Laurettabury|Leannon, Leannon and Leannon|Trappistes Rochefort 8|Sour Ale
+4709003|68077774/50|3505076|09/01/2022 00:25:01|Schneiderland|VonRueden, VonRueden and VonRueden|Ten FIDY|Smoke-flavored
+3395105|43451167/34|8703238|09/08/2019 00:49:51|Welchmouth|Schuster, Schuster and Schuster|Oaked Arrogant Bastard Ale|Sour Ale
+3909678|47711329/29|0769692|27/03/2012 07:01:41|West Toni|Goldner-Goldner|Bourbon County Stout|Light Lager
+3922394|57860752/99|2174090|22/10/2020 10:56:42|Deloresside|Rolfson-Rolfson|Samuel Smith’s Oatmeal Stout|Light Lager
+2404050|09055152/10|5634393|02/10/2022 06:47:09|Meggieside|DuBuque-DuBuque|Ruination IPA|Belgian And French Ale
+7279886|55318448/52|1191400|17/08/2021 05:05:56|Leviton|Beier, Beier and Beier|Old Rasputin Russian Imperial Stout|Wood-aged Beer
+7554242|25663451/50|9492074|22/09/2015 02:55:11|Daxhaven|Johnston and Sons|Trappistes Rochefort 8|Scottish And Irish Ale
+2382691|41153240/80|1667517|31/10/2015 17:39:24|New Lura|Berge-Berge|Schneider Aventinus|Belgian Strong Ale
+3188192|45285945/73|0366084|15/06/2014 12:59:20|Trefurt|Mann, Mann and Mann|Nugget Nectar|Strong Ale
+2857117|11768633/86|7164567|26/06/2020 04:38:37|West Jacintoport|Williamson, Williamson and Williamson|Orval Trappist Ale|Light Lager
+4831467|15199543/88|4978782|17/04/2019 07:43:08|East Taya|Larkin-Larkin|90 Minute IPA|Vegetable Beer
+5740664|34833454/42|1285499|10/08/2021 05:01:28|South Ardenland|Hirthe and Sons|Storm King Stout|Sour Ale
+1452859|10976283/92|0566522|02/04/2018 19:35:22|Port Mariah|O'Connell-O'Connell|Racer 5 India Pale Ale, Bear Republic Bre|Amber Hybrid Beer
+6488731|22678525/43|0427780|15/04/2018 14:55:14|Port Sean|Hudson, Hudson and Hudson|Samuel Smith’s Imperial IPA|German Wheat And Rye Beer
+7518922|98748455/69|1497158|07/10/2021 19:25:41|North Imogenebury|Macejkovic Inc|Nugget Nectar|India Pale Ale
+4112304|16293363/43|0553659|26/02/2019 09:57:38|New Kenchester|Dach-Dach|Duvel|India Pale Ale
+0310250|63566611/49|4181009|30/10/2013 10:50:50|Gerlachtown|Krajcik Inc|Hercules Double IPA|Pilsner
+2383376|16054221/46|0150145|31/05/2020 16:18:08|Careyside|Howe LLC|Shakespeare Oatmeal|Wood-aged Beer
+3692744|16860875/47|7451176|08/05/2016 11:45:29|Lake Lionelberg|Weissnat-Weissnat|90 Minute IPA|Belgian Strong Ale
+7854963|42074345/96|6938204|14/12/2014 02:18:59|North Halville|Schmeler and Sons|Bourbon County Stout|Light Lager
+0271085|58548857/33|7290445|03/06/2013 16:30:57|Hectorton|Gusikowski Inc|Samuel Smith’s Oatmeal Stout|Merican Ale
+4037107|42159347/06|2724828|11/10/2014 07:29:22|Lake Amanihaven|Bahringer Inc|Yeti Imperial Stout|Light Hybrid Beer
+3895157|08664192/89|0218095|11/03/2012 11:43:16|Lake Lucileport|Reichel-Reichel|St. Bernardus Abt 12|Strong Ale
+2651765|18873579/74|4352516|22/05/2013 08:39:12|East Melba|Bashirian, Bashirian and Bashirian|Stone Imperial Russian Stout|Porter
+9605109|67106115/41|9303355|15/11/2022 11:07:59|Lake Katelin|Hirthe, Hirthe and Hirthe|HopSlam Ale|India Pale Ale
+8856293|23236162/84|3070085|13/02/2018 03:25:53|East Abrahambury|Smitham-Smitham|Oaked Arrogant Bastard Ale|Wood-aged Beer
+4504850|47640669/39|0143293|11/07/2016 19:55:14|Walshhaven|Rogahn-Rogahn|Dreadnaught IPA|Belgian Strong Ale
+0977782|16793651/66|4994427|27/03/2020 06:31:35|East Destinfurt|Klocko LLC|Ten FIDY|Pilsner
+2536871|77236986/01|0075525|04/12/2021 17:42:17|Port Luisa|Koss Inc|Oaked Arrogant Bastard Ale|Light Hybrid Beer
+8610156|49975353/94|4683438|23/12/2012 08:12:50|East Carrie|Leuschke Group|Yeti Imperial Stout|Belgian And French Ale
+7114534|67728346/92|0814678|14/07/2022 11:27:41|Port Desmondchester|Davis Group|Founders Kentucky Breakfast|Merican Ale
+0563709|33871270/34|1162271|21/11/2019 04:13:54|South Reedfort|Robel LLC|Ruination IPA|Bock
+8117765|81942920/63|3459650|25/03/2021 02:47:33|New Anthonystad|Cormier, Cormier and Cormier|Trois Pistoles|Sour Ale
+8717498|49565695/28|7886291|14/05/2021 23:07:08|South Clifford|Mayer Inc|Bourbon County Stout|Wood-aged Beer
+3062946|02793736/86|9667709|28/05/2012 18:46:35|Kieraville|Beier-Beier|Founders Kentucky Breakfast|Light Lager
+9358226|62878898/07|0662807|03/09/2018 20:46:46|Abigalebury|Mosciski, Mosciski and Mosciski|Double Bastard Ale|Merican Ale
+2007249|36470304/43|0214485|24/03/2021 06:11:13|North Angelitaberg|O'Conner and Sons|Maharaj|Belgian Strong Ale
+6901264|28518447/84|1481949|23/12/2013 17:34:15|Emmerichfurt|Lynch-Lynch|Chocolate St|Bock
+9099511|56496319/15|8474908|27/06/2022 19:26:00|Lake Nameside|Konopelski, Konopelski and Konopelski|Stone IPA|Belgian Strong Ale
+9195413|27241221/14|9233224|12/07/2012 11:02:14|Clarissaside|Okuneva Group|Shakespeare Oatmeal|Light Hybrid Beer
+1015893|57916665/53|3058485|05/06/2019 04:13:06|Cronahaven|Wisozk, Wisozk and Wisozk|Schneider Aventinus|Stout
+9082198|40986970/16|1482070|13/07/2012 15:33:43|New Providencichester|Lowe, Lowe and Lowe|Orval Trappist Ale|Strong Ale
+1286261|69338741/56|6040574|20/10/2021 23:13:38|New Roman|Haley and Sons|Orval Trappist Ale|Wood-aged Beer
+2325124|10110210/77|7982344|09/07/2014 05:08:55|West Adriana|Roberts and Sons|Hop Rod Rye|Light Hybrid Beer
+2245180|43571821/85|7285771|20/05/2014 07:14:13|Port Buster|Bashirian-Bashirian|Yeti Imperial Stout|English Pale Ale
+9843946|56049259/27|2985576|10/02/2021 17:03:22|Cameronview|Carroll Inc|Bourbon County Stout|Stout
+9512283|41919101/69|9585501|08/04/2018 22:30:44|Watsicaborough|Lockman-Lockman|Oak Aged Yeti Imperial Stout|Pilsner
+5659435|59905998/80|9467949|17/02/2013 11:12:00|Ritamouth|Hintz-Hintz|Pliny The Elder|Smoke-flavored
+1146332|77299333/63|8722833|13/10/2015 11:49:56|New Dedrickton|Watsica, Watsica and Watsica|Samuel Smith’s Oatmeal Stout|Porter
+9468742|60995223/12|7737304|20/03/2012 17:30:07|Port Izaiahport|Medhurst, Medhurst and Medhurst|Sublimely Self-Righteous Ale|Smoke-flavored
+1629520|70384005/92|7318931|17/03/2018 05:45:53|Travonfurt|Lowe, Lowe and Lowe|Edmund Fitzgerald Porter|Dark Lager
+1235708|06664569/98|6609203|18/11/2017 04:11:28|New Queenie|Parisian, Parisian and Parisian|Double Bastard Ale|Wood-aged Beer
+1699582|55753920/42|9995723|09/09/2018 14:40:55|Schulistberg|Denesik Group|La Fin Du Monde|Sour Ale
+9750952|06376595/48|0781954|23/05/2014 22:18:46|East Bufordmouth|Okuneva, Okuneva and Okuneva|Hercules Double IPA|Belgian And French Ale
+6403842|49608088/31|0123000|25/03/2016 05:34:18|Krystalborough|Graham, Graham and Graham|Samuel Smith’s Oatmeal Stout|English Pale Ale
+4860446|75102711/50|5930841|09/05/2012 15:17:21|South Josephfort|Hintz-Hintz|Yeti Imperial Stout|Fruit Beer
+0302835|49578405/51|3119635|09/03/2015 17:19:51|West Martinbury|Hackett-Hackett|Samuel Smith’s Imperial IPA|Fruit Beer
+3320248|50457366/22|4608847|02/05/2015 01:13:13|New Jamel|Altenwerth LLC|Racer 5 India Pale Ale, Bear Republic Bre|German Wheat And Rye Beer
+1822366|41203744/40|6981154|26/06/2013 10:38:45|East Shanellefurt|Stracke-Stracke|90 Minute IPA|English Pale Ale
+8670655|23427295/19|2638433|07/07/2017 22:39:28|North Zitaton|Kub-Kub|Yeti Imperial Stout|Dark Lager
+3290643|99546339/46|6566516|20/09/2013 05:02:38|Lennaside|Smith and Sons|Samuel Smith’s Oatmeal Stout|Belgian And French Ale
+8246650|96927761/95|7530042|04/11/2015 02:30:40|South Ashlynn|Veum-Veum|Schneider Aventinus|Bock
+0203977|70569191/57|9646090|02/12/2022 00:03:25|Roweside|Daniel-Daniel|Chimay Grande Réserve|Belgian Strong Ale
+9537833|51738746/18|7796704|29/07/2017 03:41:58|East Ewellport|Prosacco, Prosacco and Prosacco|Edmund Fitzgerald Porter|Amber Hybrid Beer
+5567279|57301661/56|0004374|26/02/2013 09:13:43|Constantinfurt|McKenzie, McKenzie and McKenzie|Ten FIDY|Stout
+0729763|09031593/94|0649744|10/01/2014 02:49:35|Lorinestad|Farrell-Farrell|Stone IPA|Scottish And Irish Ale
+3344653|54357848/72|2868584|14/01/2021 21:37:44|North Lolita|Franecki-Franecki|Oaked Arrogant Bastard Ale|English Pale Ale
+1067765|16081817/64|8386769|29/05/2017 00:48:33|Toymouth|Moore-Moore|Celebrator Doppelbock|Bock
+8796865|85361832/04|8698267|03/05/2016 05:09:11|Rupertport|Witting, Witting and Witting|Shakespeare Oatmeal|English Pale Ale
+4307043|80355765/41|3300867|16/01/2012 06:44:24|Dickensburgh|Runte-Runte|Hercules Double IPA|Stout
+1677353|82198244/36|8079724|11/08/2021 04:58:00|Boylebury|Greenholt Group|Hop Rod Rye|India Pale Ale
+8118050|45472290/63|3418462|13/06/2020 16:08:26|Port Gardnerville|Tillman, Tillman and Tillman|Brooklyn Black|Dark Lager
+8650054|32067260/36|3420873|01/10/2019 17:04:32|Ricehaven|Bailey-Bailey|Duvel|Light Hybrid Beer
+6958516|79544374/81|4558513|18/01/2016 18:26:33|Purdyport|Smitham, Smitham and Smitham|Sierra Nevada Bigfoot Barleywine Style Ale|English Pale Ale
+0377458|77761435/62|2053893|17/11/2019 23:08:45|North Leonie|Koelpin and Sons|Duvel|Fruit Beer
+0233790|57190331/55|3213266|01/01/2012 11:15:20|South Brendanchester|Schowalter-Schowalter|Storm King Stout|English Pale Ale
+1648489|28645880/26|6921904|06/12/2021 19:39:08|Marvinton|Walter, Walter and Walter|Ruination IPA|Pilsner
+6068107|40075657/08|4587025|24/07/2016 15:27:15|Rodriguezshire|Strosin LLC|Celebrator Doppelbock|English Brown Ale
+9307653|60091372/65|8169763|22/11/2013 06:46:03|North Graysonborough|Kozey-Kozey|Shakespeare Oatmeal|Sour Ale
+1611571|15432315/60|4120609|05/10/2012 04:24:38|Lake Beaulah|Oberbrunner and Sons|Yeti Imperial Stout|Belgian And French Ale
+3261008|72523022/48|2357848|03/06/2022 21:16:20|South Wallacebury|Quigley-Quigley|Trois Pistoles|Stout
+9518389|10523363/97|4939462|26/03/2014 22:17:22|West Roxanne|Zieme, Zieme and Zieme|Founders Kentucky Breakfast|English Brown Ale
+1996012|38761542/26|2957464|29/06/2017 20:50:00|West Claire|Kuhic, Kuhic and Kuhic|Arrogant Bastard Ale|Fruit Beer
+5822489|28162313/03|7230396|21/05/2014 16:45:13|North Dagmarville|Steuber-Steuber|90 Minute IPA|Dark Lager
+0977444|74336997/00|0474027|22/06/2016 16:24:02|Port Aida|Auer, Auer and Auer|Trappistes Rochefort 10|Porter
+5664744|99261626/24|0160142|28/06/2012 03:18:08|West Rex|Hegmann-Hegmann|Sierra Nevada Bigfoot Barleywine Style Ale|Belgian And French Ale
+7805870|69398072/70|8916772|12/08/2015 01:26:33|Emoryberg|Jaskolski, Jaskolski and Jaskolski|Bell’s Expedition|Porter
+7428927|80070075/98|4716966|07/12/2020 18:31:32|Dominicview|Denesik, Denesik and Denesik|La Fin Du Monde|Belgian Strong Ale
+3612950|04155311/97|5817754|17/07/2021 06:48:30|East Sanfordview|Weimann-Weimann|Stone IPA|Strong Ale
+6551823|46056889/75|2054163|03/07/2015 16:25:14|Josiahfort|Cummings-Cummings|Samuel Smith’s Oatmeal Stout|English Brown Ale
+2977569|13799097/90|0774129|30/06/2019 04:12:26|West Sigurdchester|Wilderman-Wilderman|Alpha King Pale Ale|India Pale Ale
+6372504|03609935/93|7956926|01/10/2017 04:53:52|Baumbachfort|Maggio, Maggio and Maggio|Samuel Smith’s Imperial IPA|Belgian Strong Ale
+9902318|91204094/26|3543786|21/03/2016 18:14:01|Ethaburgh|Shields-Shields|90 Minute IPA|India Pale Ale
+2253042|51495017/78|7387950|13/12/2016 00:59:56|Port Lauriemouth|Welch Group|Shakespeare Oatmeal|Belgian And French Ale
+3678522|48997615/34|0982701|25/12/2014 06:21:39|Connview|Hegmann, Hegmann and Hegmann|Celebrator Doppelbock|Fruit Beer
+1875497|02513675/75|6907101|22/08/2021 17:42:00|West Jaquelin|Gleason-Gleason|Hercules Double IPA|Smoke-flavored
+2213575|08947085/42|3005263|18/08/2017 23:04:03|Gleasonmouth|Feest, Feest and Feest|Sierra Nevada Celebration Ale|India Pale Ale
+3617404|14636690/41|7679814|27/09/2015 06:45:53|East Summerbury|Robel-Robel|Maudite|German Wheat And Rye Beer
+0213281|18919495/63|9551319|07/07/2017 23:09:09|Sawaynhaven|Johnson and Sons|Founders Kentucky Breakfast|Light Hybrid Beer
+0321444|67972791/63|5118660|10/08/2017 09:16:58|West Carmellaborough|Jones LLC|Trappistes Rochefort 8|Merican Ale
+6259744|84190590/74|0511165|09/12/2021 21:06:53|Tellyborough|Gorczany Group|Ruination IPA|English Pale Ale
+9300449|74465228/52|7681561|21/06/2014 16:56:52|East Ed|VonRueden, VonRueden and VonRueden|Nugget Nectar|India Pale Ale
+1371940|21009926/33|1157772|13/04/2020 23:59:33|Mannfort|Raynor-Raynor|Sierra Nevada Bigfoot Barleywine Style Ale|Sour Ale
+8888135|49829834/54|2593866|05/06/2017 02:35:40|Rossborough|Bednar, Bednar and Bednar|Trappistes Rochefort 8|English Brown Ale
+3616517|67116219/51|9374310|24/12/2020 18:06:56|Deborahport|Kessler-Kessler|Bell’s Expedition|Belgian Strong Ale
+8657515|96388035/85|2887693|03/10/2012 13:16:54|West Sabinaside|Gerhold, Gerhold and Gerhold|Bourbon County Stout|Sour Ale
+2555454|80230526/88|9078920|07/02/2014 09:32:30|Port Magnolia|Hoppe, Hoppe and Hoppe|Sierra Nevada Celebration Ale|Amber Hybrid Beer
+4598485|99812901/39|7173759|19/05/2022 22:57:48|Port Estell|Murazik and Sons|Double Bastard Ale|Merican Ale
+7129823|78845035/19|0096665|11/09/2015 02:04:26|North Rodrickfurt|Gerlach-Gerlach|Péché Mortel|Light Lager
+7566556|71610360/62|8941628|04/10/2020 10:16:34|New Brant|Champlin, Champlin and Champlin|Bourbon County Stout|English Brown Ale
+5314012|08785325/68|3605255|29/01/2019 20:48:50|Norwoodburgh|Kunde Inc|Trappistes Rochefort 8|India Pale Ale
+1372683|19082065/55|1499840|22/05/2016 23:36:01|West Larissa|Smitham-Smitham|Westmalle Trappist Tripel|Smoke-flavored
+0069445|81072404/39|6442454|09/12/2012 02:44:18|Lake Shanellebury|Farrell LLC|Bell’s Expedition|Strong Ale
+1389798|86888529/36|6223271|08/02/2013 07:06:05|Marcelleside|Blick and Sons|Alpha King Pale Ale|Dark Lager
+0173483|15316200/26|3530883|25/08/2016 14:49:14|MacGyverland|Kshlerin, Kshlerin and Kshlerin|Celebrator Doppelbock|Dark Lager
+5539886|59630135/79|1657790|05/09/2015 10:21:11|West Davin|Langworth-Langworth|Arrogant Bastard Ale|Dark Lager
+4427039|20753271/08|0813536|07/12/2017 14:10:59|Mayshire|Murphy-Murphy|Brooklyn Black|German Wheat And Rye Beer
+5091668|19533213/65|4849176|22/05/2019 21:06:46|Port Kennedi|Walter, Walter and Walter|90 Minute IPA|Smoke-flavored
+2883399|41242103/79|2304340|15/06/2021 23:07:09|Lake Mary|McCullough, McCullough and McCullough|Sierra Nevada Celebration Ale|Belgian Strong Ale
+9176693|04971663/83|9890074|18/06/2019 01:01:55|Parisianfort|Paucek, Paucek and Paucek|Stone Imperial Russian Stout|Wood-aged Beer
+4894036|71676690/04|9169453|12/09/2022 05:37:09|Logantown|Wintheiser, Wintheiser and Wintheiser|Westmalle Trappist Tripel|Bock
+9513948|19454873/96|9465574|06/07/2016 05:52:03|Dickenston|Douglas Inc|St. Bernardus Abt 12|Bock
+6902999|58463910/53|6071531|04/04/2018 14:52:19|South Edythemouth|Stracke, Stracke and Stracke|Old Rasputin Russian Imperial Stout|Smoke-flavored
+5895545|48759900/41|3926623|17/01/2016 00:02:29|Nicolasmouth|O'Reilly Inc|90 Minute IPA|Sour Ale
+3510892|11572441/99|4900140|01/09/2015 06:30:12|New Cathryntown|Luettgen LLC|Ruination IPA|Scottish And Irish Ale
+0489920|11729217/93|9372511|17/07/2012 19:19:53|Hadleyshire|Carter, Carter and Carter|Ten FIDY|European Amber Lager
+8517189|30258789/10|8972018|19/07/2018 18:31:00|Archibaldside|Littel-Littel|Double Bastard Ale|India Pale Ale
+0921242|54695578/07|3480850|13/01/2016 21:00:58|Tremblaychester|Flatley, Flatley and Flatley|Oaked Arrogant Bastard Ale|Merican Ale
+1029541|66420777/41|5584059|29/04/2022 06:26:11|North Herminaton|Haley, Haley and Haley|HopSlam Ale|Fruit Beer
+5270965|89608736/07|0496732|30/01/2013 01:09:44|South Miracle|Skiles, Skiles and Skiles|Maudite|Porter
+9964935|37814012/56|9928534|15/03/2015 05:43:41|Schowaltermouth|Hahn-Hahn|Hop Rod Rye|English Pale Ale
+1930161|77866297/20|4675967|30/07/2014 17:24:00|South Lucienneview|Ferry-Ferry|Storm King Stout|English Brown Ale
+1636192|12028778/51|9109674|05/04/2016 02:38:30|Christinaside|Zboncak, Zboncak and Zboncak|Old Rasputin Russian Imperial Stout|Sour Ale
+8970361|74456636/47|9459378|24/12/2016 19:54:13|East Laneybury|Ebert and Sons|Nugget Nectar|India Pale Ale
+0573991|93038731/93|4095878|09/04/2014 18:45:18|Johnsonstad|Kling, Kling and Kling|Oak Aged Yeti Imperial Stout|Light Lager
+7826159|29349244/95|9211368|21/02/2015 05:26:46|Ernestomouth|Towne Group|Schneider Aventinus|Strong Ale
+4011913|33183416/60|4803303|28/09/2022 19:12:22|Port Kaylieburgh|Schmitt LLC|Orval Trappist Ale|Vegetable Beer
+6314801|22415866/08|3283506|13/12/2020 23:44:56|Lessieland|Robel Group|Sierra Nevada Celebration Ale|Fruit Beer
+7596066|98062357/58|0457723|29/06/2019 04:53:37|Cristshire|Thiel-Thiel|Chimay Grande Réserve|Belgian And French Ale
+5975899|85785373/11|6757368|13/04/2018 07:36:16|South Kian|Walker, Walker and Walker|Dreadnaught IPA|Bock
+6944897|26522142/09|0093188|26/11/2017 15:56:36|East Kaydenview|Thompson LLC|Sierra Nevada Celebration Ale|India Pale Ale
+8992373|96822326/65|2417124|05/04/2018 20:31:56|New Maximo|Hammes-Hammes|Edmund Fitzgerald Porter|Porter
+2260776|10621822/90|0221597|19/02/2015 17:28:54|Ortizborough|Herzog and Sons|Celebrator Doppelbock|Scottish And Irish Ale
+2748211|86738765/53|9862124|01/10/2017 08:43:20|Shaniebury|Strosin-Strosin|Founders Kentucky Breakfast|Smoke-flavored
+3459118|93816363/36|8340738|17/02/2016 14:27:10|North Julesstad|Beahan, Beahan and Beahan|Two Hearted Ale|Merican Ale
+9029157|84252225/05|9145269|11/11/2019 09:46:22|Sporershire|Dare-Dare|Shakespeare Oatmeal|Light Lager
+9202331|96163357/37|7323876|01/04/2012 01:15:04|North Marilyneland|Goyette, Goyette and Goyette|Bourbon County Stout|Amber Hybrid Beer
+2974330|09200424/59|3763541|25/01/2015 20:46:59|East Madalynshire|Stoltenberg LLC|HopSlam Ale|Amber Hybrid Beer
+2435410|55825967/00|4206558|07/06/2012 20:50:09|Lake Lois|O'Hara, O'Hara and O'Hara|Schneider Aventinus|Smoke-flavored
+7441953|11585710/38|1517295|17/05/2015 02:15:17|West Jackie|Emmerich Group|Hop Rod Rye|Merican Ale
+0241325|45927889/21|5064727|18/07/2014 03:47:38|South Tremayneview|Pfeffer, Pfeffer and Pfeffer|Founders Breakfast Stout|Dark Lager
+3949218|93393362/41|6958510|15/05/2017 10:58:02|Larkinborough|Walter and Sons|Pliny The Elder|Vegetable Beer
+5058420|74687726/85|7778923|16/01/2012 15:49:31|Lake Nicholastown|Weissnat, Weissnat and Weissnat|Duvel|English Brown Ale
+1337286|17322037/04|4092087|18/02/2017 16:46:10|Dickensview|Ankunding, Ankunding and Ankunding|Samuel Smith’s Oatmeal Stout|European Amber Lager
+6000313|80877412/02|0070218|30/12/2014 22:52:07|New Kari|Ernser LLC|Bell’s Expedition|Fruit Beer
+6407276|76685874/77|7875318|28/04/2022 12:29:20|Stokesland|Marks LLC|Ruination IPA|Strong Ale
+0835158|42005592/49|0503790|15/12/2020 12:04:23|MacGyverfurt|Langosh-Langosh|Westmalle Trappist Tripel|Fruit Beer
+1897843|35871420/56|4342201|29/05/2012 11:54:51|East Mozelle|Connelly-Connelly|Yeti Imperial Stout|English Pale Ale
+6430425|77592216/90|9764657|11/07/2012 22:14:59|Tromptown|Schoen-Schoen|Orval Trappist Ale|Belgian Strong Ale
+6238808|19651288/64|4005114|13/04/2016 21:52:41|West Craigfort|Kozey-Kozey|Dreadnaught IPA|Dark Lager
+6382476|76137719/20|7822086|18/02/2014 06:17:01|Heidenreichfort|Schiller LLC|Hop Rod Rye|English Brown Ale
+8270534|14735904/82|0023011|17/02/2018 20:45:18|East Tyshawnchester|Herman, Herman and Herman|Schneider Aventinus|Vegetable Beer
+5201769|10546425/90|8080204|03/07/2019 11:08:20|Hodkiewicztown|Murazik-Murazik|Bourbon County Stout|Light Lager
+9307289|54306835/68|4389724|25/09/2016 09:26:54|Swaniawskistad|Ziemann LLC|Pliny The Elder|Smoke-flavored
+9680930|75415282/98|2692256|30/10/2016 16:45:23|West Simoneland|Miller Inc|Maharaj|Stout
+4403044|22252368/36|8974298|29/03/2015 00:27:03|South Kiarraton|Douglas-Douglas|Brooklyn Black|Belgian Strong Ale
+5425967|92295822/37|4010014|28/08/2020 19:01:55|Port Helene|Beer, Beer and Beer|Founders Kentucky Breakfast|German Wheat And Rye Beer
+2518729|70328433/77|3430608|15/11/2015 14:14:45|Lake Jocelyn|Mayer-Mayer|Double Bastard Ale|Porter
+5430243|43268557/76|2409060|23/08/2013 11:28:20|Mrazshire|McCullough, McCullough and McCullough|Nugget Nectar|German Wheat And Rye Beer
+5436252|40782855/63|0349163|24/10/2021 08:26:45|New Donaldview|Murazik Group|Brooklyn Black|Amber Hybrid Beer
+6333113|81828078/36|2581273|22/11/2018 02:27:51|Shyannfurt|Green and Sons|Westmalle Trappist Tripel|Porter
+8928773|14196738/24|0653581|12/05/2021 00:02:34|East Talonborough|Schulist Inc|Celebrator Doppelbock|Dark Lager
+6024593|51738441/02|9689247|14/04/2012 13:06:23|Averyville|Kessler-Kessler|Nugget Nectar|English Pale Ale
+8590696|31661812/92|8816271|01/06/2013 04:40:02|Port Darron|Kunze-Kunze|Ten FIDY|European Amber Lager
+6683617|48938003/37|5510439|15/06/2019 01:38:54|West Russmouth|O'Hara-O'Hara|Stone IPA|Belgian Strong Ale
+8867205|80684600/75|8693073|17/09/2022 10:14:38|Okunevafort|Wolff LLC|Maharaj|Pilsner
+8284603|72765351/59|1865680|05/12/2021 12:59:51|North Laurel|Rogahn, Rogahn and Rogahn|Two Hearted Ale|Porter
+4381711|83956326/65|2512528|12/05/2017 21:47:31|Pourosburgh|Brown-Brown|Westmalle Trappist Tripel|Dark Lager
+4813084|83697024/29|8209445|20/08/2015 03:23:26|Kassulkeport|Kris Group|Nugget Nectar|Porter
+0443393|45724657/03|8475629|10/01/2012 08:47:14|Kademouth|Kunde Inc|Nugget Nectar|Smoke-flavored
+3091310|94644300/02|4474603|08/08/2022 07:50:01|West Lynn|Goyette, Goyette and Goyette|Arrogant Bastard Ale|Scottish And Irish Ale
+7603324|89964516/99|6926189|12/03/2013 06:11:07|Kuvalismouth|Fritsch-Fritsch|Bell’s Expedition|Wood-aged Beer
+0381699|22400557/13|5639140|20/08/2014 11:47:24|Port Abigayle|Kemmer Inc|Ruination IPA|Belgian Strong Ale
+4163034|52758602/30|1409828|19/10/2016 22:40:46|East Beauborough|Feeney Group|Two Hearted Ale|India Pale Ale
+1308387|99213613/39|9446976|19/10/2020 07:02:30|South Kamrynview|Sipes, Sipes and Sipes|Weihenstephaner Hefeweissbier|Belgian Strong Ale
+8208018|59499490/01|4055676|08/07/2017 04:55:03|West Geneport|Reichel, Reichel and Reichel|Samuel Smith’s Imperial IPA|Scottish And Irish Ale
+4147383|79643350/06|9071093|16/02/2013 01:19:10|North Katrinatown|Schuster Inc|Old Rasputin Russian Imperial Stout|Merican Ale
+0852503|05755415/06|4869126|17/09/2015 22:33:34|Port Reva|Dicki-Dicki|St. Bernardus Abt 12|European Amber Lager
+6499191|86394378/71|6363244|22/11/2019 16:19:02|Morissetteberg|Goyette, Goyette and Goyette|Trois Pistoles|Belgian Strong Ale
+5148219|50107691/72|2135711|01/03/2015 20:22:27|Evanshire|Bernhard Inc|Edmund Fitzgerald Porter|German Wheat And Rye Beer
+5703704|32171906/30|5298192|28/05/2019 13:47:43|Zoiemouth|Barrows Inc|Old Rasputin Russian Imperial Stout|Merican Ale
+5408418|64429800/32|8104347|28/07/2015 19:08:59|North Princesstown|Ortiz-Ortiz|Celebrator Doppelbock|Light Lager
+0582667|44715550/66|7047083|13/02/2013 08:39:36|Altenwerthview|Johns-Johns|HopSlam Ale|Light Lager
+2332941|65693980/20|3429732|17/12/2015 01:53:59|Floyville|Bartell, Bartell and Bartell|Old Rasputin Russian Imperial Stout|Bock
+2390812|92504467/21|4264023|23/07/2021 12:03:44|South Jazminside|Goyette LLC|Racer 5 India Pale Ale, Bear Republic Bre|Light Hybrid Beer
+9921308|88698145/60|3968732|24/03/2019 08:41:22|Spinkabury|Stoltenberg, Stoltenberg and Stoltenberg|Founders Kentucky Breakfast|Pilsner
+8470804|35236076/46|0390844|16/01/2018 08:43:56|Rheaport|Glover Inc|Sierra Nevada Bigfoot Barleywine Style Ale|Pilsner
+3369860|54731786/41|7883239|01/11/2018 06:00:25|Kameronside|Hand and Sons|Hercules Double IPA|India Pale Ale
+2458137|94092076/33|8348159|06/12/2014 14:34:30|South Hayleeburgh|Ratke Inc|Alpha King Pale Ale|India Pale Ale
+6760753|21765308/27|6090255|06/07/2020 08:43:44|Kilbackville|Turner-Turner|Two Hearted Ale|Belgian Strong Ale
+3304885|49151864/96|5898175|13/07/2021 09:18:04|Lake Chaunceybury|Mosciski-Mosciski|Two Hearted Ale|Belgian And French Ale
+5542239|02613439/20|1068158|23/08/2018 05:41:33|West Morgan|Von-Von|Trappistes Rochefort 8|Stout
+8442276|16334847/46|5699455|08/08/2013 23:09:42|New Heidi|Altenwerth Group|Celebrator Doppelbock|Belgian Strong Ale
+0420649|74520704/35|7897354|25/01/2012 10:48:07|Bergstromberg|Miller-Miller|Samuel Smith’s Oatmeal Stout|Stout
+4322201|34120160/09|7467002|10/01/2014 21:11:21|Mosciskistad|Davis, Davis and Davis|Péché Mortel|Belgian And French Ale
+0790509|57388156/38|1190453|11/06/2022 22:51:29|East Violet|Murphy-Murphy|Chocolate St|Merican Ale
+7499790|99671828/74|8520161|05/09/2020 11:18:51|Jacobsonfort|Jaskolski Group|Arrogant Bastard Ale|Light Hybrid Beer
+0994157|39815317/68|8411879|25/11/2021 14:09:54|East Meta|Schmitt, Schmitt and Schmitt|Bell’s Expedition|Scottish And Irish Ale
+9838935|47321533/77|1076081|01/09/2020 08:00:06|Antoinetteberg|Schinner-Schinner|Samuel Smith’s Oatmeal Stout|European Amber Lager
+8492298|68115715/06|6143051|06/03/2020 23:22:56|Port Van|Pouros LLC|Sierra Nevada Bigfoot Barleywine Style Ale|Porter
+4137891|13058329/24|2944727|06/12/2013 11:12:02|Kutchberg|Skiles, Skiles and Skiles|Two Hearted Ale|Vegetable Beer
+9383976|98985218/88|2424135|09/10/2014 23:25:25|Maggiostad|Beier LLC|Oak Aged Yeti Imperial Stout|Light Hybrid Beer
+7673390|40494108/40|0505151|30/06/2015 10:38:41|O'Keefemouth|Hodkiewicz and Sons|HopSlam Ale|Fruit Beer
+4897678|56960537/44|9560846|08/03/2016 17:36:31|East Lemuel|Monahan Inc|Weihenstephaner Hefeweissbier|Fruit Beer
+5702286|08122328/47|6540342|11/02/2012 23:13:10|North Ashleyland|Waters-Waters|Westmalle Trappist Tripel|Sour Ale
+1283187|54526659/74|6672395|05/07/2022 10:30:57|East Alisaland|Stehr, Stehr and Stehr|Alpha King Pale Ale|Belgian And French Ale
+3916156|18979311/01|8532373|14/10/2022 03:12:44|Jonesshire|Parker-Parker|Samuel Smith’s Imperial IPA|Belgian And French Ale
+3264953|19606271/49|8594317|19/05/2018 04:58:35|East Jaylenshire|Hessel, Hessel and Hessel|Shakespeare Oatmeal|Dark Lager
+0531799|69265546/84|1409714|04/06/2021 01:40:43|New Eldoraberg|Kuphal LLC|Weihenstephaner Hefeweissbier|Porter
+3902592|88351260/21|5650318|25/03/2019 21:46:20|Chazborough|Rippin Inc|Ten FIDY|European Amber Lager
+8410743|79828552/12|0568313|30/04/2013 08:24:38|North Audiefurt|Cartwright-Cartwright|Alpha King Pale Ale|Bock
+8927850|73696786/80|3360864|16/06/2013 06:16:05|Stromanfurt|Casper and Sons|Yeti Imperial Stout|Belgian Strong Ale
+7916114|82216570/65|4516817|25/03/2015 01:26:37|Frederickfurt|Maggio, Maggio and Maggio|Bourbon County Stout|Dark Lager
+8066774|71476523/48|8090280|03/08/2020 11:25:30|Danaberg|Mosciski Inc|Chimay Grande Réserve|English Brown Ale
+8861303|09149268/01|1765493|21/02/2013 13:19:31|Walterstad|Marks LLC|Oaked Arrogant Bastard Ale|Vegetable Beer
+0221245|62707951/61|3852087|01/04/2019 22:12:24|Abshirefurt|McLaughlin and Sons|Hercules Double IPA|Porter
+0791905|68954464/91|2555866|01/07/2021 10:01:34|Dibbertville|Casper-Casper|Westmalle Trappist Tripel|Porter
+2457367|05740075/04|5281526|01/10/2015 13:00:06|Port Kylie|Stamm-Stamm|Hercules Double IPA|Belgian Strong Ale
+1390522|49501867/84|9632999|24/08/2016 19:24:14|Lake Camilleton|Olson Group|Alpha King Pale Ale|Fruit Beer
+7305437|61888863/25|5003155|22/11/2016 19:50:46|West Jayme|Heller-Heller|La Fin Du Monde|Merican Ale
+4691823|17790434/88|9772837|13/05/2014 01:04:31|New Dustyland|Feest, Feest and Feest|Oaked Arrogant Bastard Ale|Strong Ale
+8007334|98381546/89|3095427|30/12/2020 00:54:36|Haleyberg|MacGyver and Sons|Sierra Nevada Bigfoot Barleywine Style Ale|Dark Lager
+6087399|68951864/09|1076861|26/06/2022 16:51:29|Deonfurt|Price LLC|Sierra Nevada Bigfoot Barleywine Style Ale|Vegetable Beer
+7833871|01097011/21|7899006|22/02/2012 17:45:31|West Bethelview|White Inc|Dreadnaught IPA|Scottish And Irish Ale
+8981504|46899697/94|2033790|06/08/2012 00:20:49|Willmouth|Deckow, Deckow and Deckow|Samuel Smith’s Imperial IPA|Light Lager
+5550681|91290286/49|3638260|17/07/2018 18:08:56|Coltonfurt|Ebert and Sons|Shakespeare Oatmeal|English Brown Ale
+4914333|08413504/67|8593421|24/01/2017 19:50:37|Port Dolly|Lehner and Sons|Stone Imperial Russian Stout|Pilsner
+2289404|27010961/08|4560143|08/01/2012 22:18:04|Janetfort|Graham-Graham|Stone Imperial Russian Stout|German Wheat And Rye Beer
+0998383|06057499/55|2925299|27/06/2015 16:09:04|Lake Jazmin|Hudson LLC|Schneider Aventinus|Scottish And Irish Ale
+6435075|24938775/75|8231808|28/08/2014 20:26:18|Terryton|Parisian, Parisian and Parisian|Two Hearted Ale|Strong Ale
+6324259|17903035/92|0457046|25/11/2022 00:30:54|Lake Davonfort|Rolfson Group|Chocolate St|Porter
+7908825|27050937/48|2098708|13/08/2018 23:49:00|Schusterhaven|Cassin LLC|Chimay Grande Réserve|Stout
+5512088|32510544/11|6319295|16/11/2021 13:55:24|Natland|Kassulke, Kassulke and Kassulke|Sierra Nevada Bigfoot Barleywine Style Ale|Merican Ale
+2931816|61835636/85|5334488|03/03/2018 07:46:36|New Norbertville|Johns Inc|Oaked Arrogant Bastard Ale|Bock
+2705820|67462733/90|7597332|27/11/2018 14:01:53|South Mateoside|Schinner Inc|Two Hearted Ale|Dark Lager
+7413945|58883534/85|0230571|10/12/2017 19:05:05|Majorfort|Ryan-Ryan|Arrogant Bastard Ale|Belgian Strong Ale
+0226389|39928738/93|7168862|02/01/2014 15:00:46|Herzogmouth|Altenwerth LLC|Chocolate St|Scottish And Irish Ale
+2608276|58001500/62|9307761|16/02/2021 13:09:06|Port Miracle|Ferry-Ferry|Ten FIDY|Strong Ale
+1732163|29904314/18|8214937|07/04/2018 22:40:06|West Saultown|Tromp, Tromp and Tromp|HopSlam Ale|Belgian And French Ale
+2038759|50433913/14|0191260|05/12/2018 10:45:01|New Electafurt|Wilderman Group|Stone IPA|Fruit Beer
+7910883|34604669/74|2766383|31/08/2018 01:16:58|Prohaskachester|Paucek-Paucek|Dreadnaught IPA|Merican Ale
+9790904|44103304/98|7745546|10/12/2013 00:42:27|Hanehaven|Heidenreich-Heidenreich|Brooklyn Black|India Pale Ale
+6545321|80736478/34|8119258|16/11/2022 04:28:54|Larsonfurt|Corkery Group|Ruination IPA|Fruit Beer
+9361293|89143808/01|9412580|25/06/2021 00:27:46|Port Clevelandville|O'Connell-O'Connell|Founders Kentucky Breakfast|Fruit Beer
+6651372|39009877/77|8884429|27/01/2014 09:34:03|West Afton|Cruickshank Group|Westmalle Trappist Tripel|Amber Hybrid Beer
+6282199|76810570/01|7230436|25/07/2021 22:32:41|West Crystal|Kreiger, Kreiger and Kreiger|Ten FIDY|Pilsner
+6545394|00156901/17|7990142|19/11/2012 12:09:43|New Eltamouth|Schultz Inc|Pliny The Elder|Pilsner
+3981507|54359138/13|8399789|07/02/2012 02:09:38|Muellerside|Oberbrunner-Oberbrunner|St. Bernardus Abt 12|Light Lager
+8477518|57973064/48|7863606|13/06/2013 22:53:19|Ethelbury|Bernhard, Bernhard and Bernhard|Hercules Double IPA|Porter
+0540168|51455596/08|5783709|01/11/2015 15:48:08|New Martafort|Mueller-Mueller|Ruination IPA|India Pale Ale
+7667608|39395618/19|3555554|30/05/2015 01:02:42|Champlinchester|Baumbach, Baumbach and Baumbach|Stone Imperial Russian Stout|Belgian And French Ale
+3279584|95312435/85|6933487|20/03/2014 09:46:19|South Nicholeshire|Kuvalis-Kuvalis|La Fin Du Monde|Smoke-flavored
+6389017|71733232/07|5006552|04/02/2015 15:23:27|Harrisburgh|Rau-Rau|Sublimely Self-Righteous Ale|European Amber Lager
+5431112|09063940/44|0177127|21/11/2022 05:46:44|Mafaldaville|Kreiger and Sons|90 Minute IPA|Merican Ale
+2474351|76419210/64|1239076|24/05/2013 05:22:01|West Karleyfurt|Ankunding, Ankunding and Ankunding|Duvel|Belgian And French Ale
+5844540|18988505/18|9771488|28/05/2016 02:54:16|Reichelborough|O'Keefe LLC|Ruination IPA|Amber Hybrid Beer
+3628677|25906588/63|7765177|25/09/2017 07:20:35|Lavernefurt|Wuckert-Wuckert|Oaked Arrogant Bastard Ale|Strong Ale
+4694395|62270664/85|9807407|20/10/2022 10:47:39|West Lorenzaton|Torp, Torp and Torp|Schneider Aventinus|Vegetable Beer
+7743548|24790676/27|0231633|31/03/2020 01:21:46|Port Ellenside|Block, Block and Block|Samuel Smith’s Imperial IPA|Belgian Strong Ale
+5849215|34524129/65|2933884|14/10/2012 16:28:00|Port Jovani|Watsica-Watsica|Oak Aged Yeti Imperial Stout|Porter
+3095119|69100737/81|8479276|06/10/2018 08:17:39|North Sharonfort|Emard LLC|Sierra Nevada Bigfoot Barleywine Style Ale|Strong Ale
+3575706|61597754/74|4192284|31/03/2018 06:46:26|North Cali|Gerlach-Gerlach|Péché Mortel|English Brown Ale
+5481650|50055387/95|3208556|19/07/2013 11:35:52|Lake Abagail|Blanda-Blanda|Sierra Nevada Celebration Ale|English Pale Ale
+8734263|68172734/48|4054569|10/09/2017 15:44:29|Leopoldochester|Marks-Marks|Trappistes Rochefort 10|Amber Hybrid Beer
+2438825|28183614/96|8498930|01/11/2018 03:35:36|North Randiburgh|Hackett, Hackett and Hackett|Samuel Smith’s Oatmeal Stout|English Brown Ale
+8284032|96475787/41|8890935|08/10/2017 01:53:11|East Octavia|Jacobs, Jacobs and Jacobs|Ruination IPA|Light Hybrid Beer
+0485051|99769406/24|4819661|20/06/2018 23:38:57|Littelberg|Ratke, Ratke and Ratke|Oaked Arrogant Bastard Ale|Belgian And French Ale
+6974492|50194192/94|4475811|28/07/2018 18:44:35|West Domenicoview|Wisoky, Wisoky and Wisoky|Schneider Aventinus|Stout
+6822337|76390992/77|8043316|25/08/2018 19:56:06|Grantmouth|Hilpert, Hilpert and Hilpert|Péché Mortel|Amber Hybrid Beer
+0433157|95873626/87|0463159|01/11/2016 11:33:03|West Pinkbury|Wiegand, Wiegand and Wiegand|Old Rasputin Russian Imperial Stout|Scottish And Irish Ale
+5968112|58005076/00|5265805|16/10/2022 15:50:53|New Kaitlinchester|Lakin and Sons|Hop Rod Rye|Strong Ale
+0363441|89268944/65|5182217|15/07/2019 22:56:47|South Agnes|Gislason-Gislason|Founders Breakfast Stout|Wood-aged Beer
+2710504|44364837/82|3072278|19/02/2021 15:35:08|North Doylemouth|Cormier LLC|Sierra Nevada Celebration Ale|German Wheat And Rye Beer
+4214565|86439502/20|4499752|15/03/2017 06:35:18|Anselberg|Halvorson and Sons|Bell’s Expedition|German Wheat And Rye Beer
+4773041|23334824/81|4694893|27/01/2015 01:35:32|East Ivah|Murray Inc|Storm King Stout|Smoke-flavored
+4261965|15183624/33|0918739|05/12/2018 13:58:00|West Melvina|Gutkowski LLC|Oak Aged Yeti Imperial Stout|Dark Lager
+1947415|99766674/50|0080645|02/10/2014 15:51:51|Lake Johanna|Zieme-Zieme|Yeti Imperial Stout|Stout
+5435472|57394388/17|6140186|24/12/2016 10:57:56|Ambroseport|Bayer Group|Maharaj|Light Lager
+3141319|84840229/04|4795591|10/10/2013 21:17:27|South Andreanneside|Lindgren-Lindgren|Maharaj|Wood-aged Beer
+2886925|34597237/98|2880963|31/07/2016 01:14:05|Gulgowskiview|Bode, Bode and Bode|Yeti Imperial Stout|India Pale Ale
+7965952|21327131/03|6171720|21/06/2015 05:40:26|Eldoraside|Mueller-Mueller|Trappistes Rochefort 10|India Pale Ale
+9372995|28892735/92|3897328|03/07/2018 18:35:12|Aufderharbury|Schaefer, Schaefer and Schaefer|Maudite|Smoke-flavored
+2605310|12891708/58|7572056|16/12/2013 23:35:05|Savionland|Hyatt, Hyatt and Hyatt|La Fin Du Monde|Sour Ale
+4063531|29684788/82|3810181|01/09/2017 15:10:11|Port Herminio|Gorczany-Gorczany|Stone Imperial Russian Stout|Light Lager
+0870904|67839177/97|0367388|02/07/2021 13:22:24|South Gardnertown|Schimmel-Schimmel|Trois Pistoles|Bock
+8394013|37843779/14|0674073|01/06/2018 02:46:24|Howestad|Parker and Sons|Edmund Fitzgerald Porter|English Brown Ale
+7555040|21538121/67|7050156|03/12/2014 07:43:45|Susiestad|O'Conner, O'Conner and O'Conner|Celebrator Doppelbock|Merican Ale
+8449262|33139490/50|1389382|03/12/2017 13:58:01|New Jaycee|Pfeffer and Sons|Nugget Nectar|India Pale Ale
+1796883|39510382/55|7296692|17/05/2014 10:04:39|Kaylinchester|Thiel Group|Sublimely Self-Righteous Ale|Smoke-flavored
+1982867|25866293/62|2746132|28/11/2014 06:12:56|East Wyattview|Bins-Bins|Oak Aged Yeti Imperial Stout|India Pale Ale
+0693785|88139440/70|0108171|19/01/2021 22:35:12|Elyseport|Williamson, Williamson and Williamson|Trappistes Rochefort 10|Light Hybrid Beer
+1371755|59653173/44|5422551|09/01/2015 11:20:24|Port Virgilfurt|McKenzie LLC|Oak Aged Yeti Imperial Stout|India Pale Ale
+8319056|74958708/35|3600303|31/01/2016 18:36:08|Cormierstad|Schinner, Schinner and Schinner|HopSlam Ale|Light Hybrid Beer
+5377463|21083223/81|0557921|27/08/2012 11:39:28|Hipolitofurt|Cronin, Cronin and Cronin|Péché Mortel|Sour Ale
+0225612|42130351/77|8579332|05/02/2018 00:24:58|Romaberg|Schuster-Schuster|Samuel Smith’s Oatmeal Stout|Light Hybrid Beer
+2857562|46216053/09|9218979|28/10/2013 04:33:05|West Tabitha|Mills-Mills|Trois Pistoles|Belgian Strong Ale
+2675959|56549848/54|7447934|06/01/2016 14:27:06|East Ludie|Dickinson, Dickinson and Dickinson|Samuel Smith’s Oatmeal Stout|Strong Ale
+2046882|09423367/69|9600270|05/10/2020 09:36:31|South Reeceville|Kunze, Kunze and Kunze|Ruination IPA|India Pale Ale
+4819518|49414198/79|8413826|26/04/2022 04:54:31|Lake Geraldineville|Legros LLC|Sierra Nevada Celebration Ale|Sour Ale
+8389442|64584490/36|5229386|12/04/2013 02:21:31|South Jerrell|Abbott, Abbott and Abbott|Racer 5 India Pale Ale, Bear Republic Bre|Porter
+1913324|75561236/82|7554030|27/03/2015 17:41:46|Lake Camrynside|Lind, Lind and Lind|Trappistes Rochefort 10|Light Hybrid Beer
+2966092|40380824/65|9835244|08/05/2019 20:07:13|East Luciousburgh|Gutkowski Group|Arrogant Bastard Ale|Smoke-flavored
+9144413|56852204/01|6186730|04/12/2021 19:23:54|West Vincenzabury|Vandervort, Vandervort and Vandervort|Trappistes Rochefort 8|Pilsner
+2429624|99543041/99|8874701|28/08/2014 13:38:14|East Terrillfort|Lang-Lang|Trappistes Rochefort 10|German Wheat And Rye Beer
+4534030|70373831/45|6827761|27/03/2018 13:15:06|Port Anita|Hartmann-Hartmann|HopSlam Ale|Belgian And French Ale
+5627909|55566251/70|5375129|27/02/2013 01:00:40|Padbergstad|Jast LLC|Weihenstephaner Hefeweissbier|Merican Ale
+6087871|16529406/69|6220171|24/10/2017 12:33:13|Lake Emerson|Doyle Group|Brooklyn Black|Sour Ale
+3002910|60167021/54|3158179|18/08/2021 13:11:14|Anneland|Hills-Hills|Ruination IPA|Light Lager
+4152652|55532846/99|8860004|05/06/2018 23:13:26|Port Sammy|Grimes, Grimes and Grimes|Chimay Grande Réserve|English Pale Ale
+6053131|77447610/47|3526695|09/10/2021 21:35:18|Heaneyshire|Wolff, Wolff and Wolff|Oak Aged Yeti Imperial Stout|Bock
+6903481|55931666/72|5979090|23/01/2022 02:23:48|Rickburgh|Carroll-Carroll|Bell’s Expedition|Strong Ale
+5197188|26909955/81|3487023|09/12/2022 01:32:58|New Xavier|Zulauf, Zulauf and Zulauf|Oak Aged Yeti Imperial Stout|Merican Ale
+3820998|30099081/88|9463340|04/08/2019 05:54:33|North Vida|Reichert-Reichert|Trappistes Rochefort 8|Bock
+4551097|17159551/23|8469186|30/11/2014 11:08:25|Huldamouth|Marquardt and Sons|Racer 5 India Pale Ale, Bear Republic Bre|Light Lager
+6811855|67184254/91|2906223|09/03/2014 13:39:51|Sawaynland|Hahn and Sons|Sublimely Self-Righteous Ale|Wood-aged Beer
+6733273|54825293/93|3131871|09/03/2021 05:42:02|North Marysefort|Nikolaus-Nikolaus|Duvel|India Pale Ale
+9347770|99441288/99|6925634|13/01/2017 03:37:06|New Jodieburgh|Hartmann, Hartmann and Hartmann|La Fin Du Monde|European Amber Lager
+0015515|80075884/11|7889918|28/06/2014 18:38:33|VonRuedenborough|Gerlach, Gerlach and Gerlach|Samuel Smith’s Oatmeal Stout|Porter
+1658602|92940921/70|1971427|29/03/2016 16:25:48|Brakusfurt|Bruen Group|Hennepin|Wood-aged Beer
+5467738|21974880/37|7093982|09/12/2016 16:09:48|Lake Vincentview|Predovic and Sons|St. Bernardus Abt 12|Scottish And Irish Ale
+3677545|87880365/27|4359025|08/03/2021 14:18:34|East Rowan|Bauch-Bauch|La Fin Du Monde|Sour Ale
+7067008|28635240/96|5943320|21/02/2020 01:14:13|Connerhaven|Kuhn, Kuhn and Kuhn|Hop Rod Rye|Porter
+0044412|43229137/07|4840201|26/01/2022 16:41:11|Kuvalisshire|Schuppe-Schuppe|Hop Rod Rye|Amber Hybrid Beer
+6821624|08736001/74|8675937|01/01/2015 05:06:27|Carloside|Wintheiser LLC|Samuel Smith’s Oatmeal Stout|Dark Lager
+5922472|01158131/91|6379790|11/12/2020 18:22:34|Bettyside|Bogan and Sons|Alpha King Pale Ale|European Amber Lager
+5794711|63851435/68|7528019|25/11/2012 17:16:26|North Terrellview|Kulas LLC|Orval Trappist Ale|German Wheat And Rye Beer
+3084055|44648306/28|2237731|12/04/2019 17:53:55|Port Ara|Weimann LLC|Bourbon County Stout|European Amber Lager
+3239088|10246175/55|8001334|14/02/2012 15:05:56|Betteton|Torp-Torp|Racer 5 India Pale Ale, Bear Republic Bre|English Brown Ale
+5196165|97184321/81|3943885|09/04/2014 11:19:44|Fadelmouth|Smitham LLC|Hercules Double IPA|Belgian And French Ale
+2974678|37536193/16|3359489|12/10/2019 22:07:07|East Buck|Harber-Harber|Nugget Nectar|Porter
+7746778|99825815/60|1381776|03/08/2019 08:53:43|Yasmineview|Satterfield and Sons|Trois Pistoles|Amber Hybrid Beer
+3800426|87534693/61|9771899|08/09/2013 03:47:29|North Kiana|Lemke-Lemke|Founders Breakfast Stout|Belgian And French Ale
+6445495|79283877/09|2588504|19/03/2014 05:29:28|Port Aubreytown|Reichel, Reichel and Reichel|Celebrator Doppelbock|Pilsner
+7648130|97888613/92|6798133|02/10/2018 13:11:49|Boscohaven|Cormier-Cormier|Racer 5 India Pale Ale, Bear Republic Bre|Belgian And French Ale
+3361291|35866599/81|0191196|23/11/2017 03:15:40|East Mona|Brakus-Brakus|Shakespeare Oatmeal|Belgian Strong Ale
+2089965|47853643/56|7571694|19/05/2015 00:22:51|East Alessandro|Wolf, Wolf and Wolf|La Fin Du Monde|India Pale Ale
+0083362|99378292/61|6935480|09/03/2015 05:05:35|New Kenyon|Greenholt LLC|Péché Mortel|Strong Ale
+9917074|08317596/11|4872010|13/09/2015 13:18:51|Aureliaside|Batz LLC|Oaked Arrogant Bastard Ale|Strong Ale
+0743567|92717051/59|2742960|16/11/2015 00:11:02|West Leannside|Zboncak-Zboncak|Shakespeare Oatmeal|European Amber Lager
+2984913|12600359/66|3083582|06/10/2022 17:37:00|West Casandra|Stiedemann-Stiedemann|Arrogant Bastard Ale|Belgian Strong Ale
+0894957|66488283/82|6189542|15/03/2014 09:33:10|Lake Willow|Raynor, Raynor and Raynor|Orval Trappist Ale|Smoke-flavored
+4005108|70966912/11|3766918|14/11/2019 15:56:03|Jacquelynland|Pfeffer, Pfeffer and Pfeffer|Bourbon County Stout|Belgian Strong Ale
+7731902|73298762/48|2580624|13/09/2020 14:55:23|Wiegandfort|Kozey and Sons|Oaked Arrogant Bastard Ale|Scottish And Irish Ale
+8284487|29438023/81|2435619|22/01/2019 07:35:32|Ellisfurt|Glover Group|Trois Pistoles|English Brown Ale
+7324862|05304816/22|5379566|07/08/2017 11:17:42|Wehnerbury|Koss-Koss|Ten FIDY|Porter
+9066445|60636782/55|4984669|08/11/2018 10:16:03|North Harleychester|Kuhlman, Kuhlman and Kuhlman|Weihenstephaner Hefeweissbier|Porter
+3375987|67276761/19|9855795|23/01/2015 23:40:19|North Moriahhaven|Pollich Group|Racer 5 India Pale Ale, Bear Republic Bre|Dark Lager
+4121657|59015219/07|3808873|25/02/2012 21:33:41|New Isaistad|Erdman Group|Sierra Nevada Celebration Ale|Scottish And Irish Ale
+5312741|91823149/85|8123744|13/02/2012 05:55:45|North Bruce|Little, Little and Little|La Fin Du Monde|Bock
+4182063|93667833/21|8065315|05/08/2014 02:41:25|Lorenzofort|Herman Inc|Founders Kentucky Breakfast|Belgian And French Ale
+1207017|24552519/61|8547152|28/01/2018 10:43:09|Darleneton|Ernser-Ernser|Pliny The Elder|Stout
+3114813|84507561/46|0664613|24/08/2020 05:15:45|West Eldaview|Rowe LLC|Hennepin|Dark Lager
+2965328|73686833/07|3683075|11/05/2022 23:09:50|North Vincenzaland|Eichmann, Eichmann and Eichmann|Yeti Imperial Stout|Dark Lager
+2979621|25073087/41|8463725|08/09/2016 02:29:52|West Danny|Sanford, Sanford and Sanford|La Fin Du Monde|India Pale Ale
+3934080|14869757/78|2114932|19/06/2013 09:09:12|West Katelynnborough|Schultz-Schultz|Hercules Double IPA|Stout
+9983204|68216496/59|5659989|13/07/2015 12:23:53|Armstrongshire|Weber, Weber and Weber|Hop Rod Rye|European Amber Lager
+7390480|21641235/40|3826589|18/06/2012 17:16:31|Nikkifurt|Gutmann LLC|Old Rasputin Russian Imperial Stout|English Brown Ale
+9706510|63716499/99|1682070|07/01/2021 10:52:41|West Elisabeth|Rempel, Rempel and Rempel|Pliny The Elder|Amber Hybrid Beer
+8200001|39503617/07|9947754|04/01/2019 12:07:28|Dickensfort|Prosacco-Prosacco|Alpha King Pale Ale|European Amber Lager
+2296309|08843814/32|1155214|12/09/2019 18:58:43|New Dedric|McGlynn, McGlynn and McGlynn|Schneider Aventinus|Amber Hybrid Beer
+1462383|86306966/16|3075960|02/12/2014 12:03:25|Howebury|Friesen, Friesen and Friesen|Yeti Imperial Stout|Pilsner
+7306716|09904310/53|5818441|28/06/2022 15:28:38|Trompchester|Doyle, Doyle and Doyle|Schneider Aventinus|English Pale Ale
+8075728|23254167/32|5325920|17/09/2012 14:46:28|Aurelioside|Rutherford, Rutherford and Rutherford|Schneider Aventinus|European Amber Lager
+5752358|04076601/42|7572592|19/09/2022 12:45:26|North Kassandra|Klocko, Klocko and Klocko|La Fin Du Monde|Wood-aged Beer
+6947393|56003126/63|8678212|28/06/2022 08:27:34|East Broderick|Crist-Crist|Oaked Arrogant Bastard Ale|English Pale Ale
+0305145|73606030/83|5805501|20/11/2012 17:24:03|Lake Catharinehaven|Schulist, Schulist and Schulist|Ten FIDY|Smoke-flavored
+7041701|19657915/59|4284618|11/07/2018 01:21:30|Ofeliafurt|Huel Group|Pliny The Elder|Sour Ale
+9680650|44221383/07|5445942|03/08/2019 03:19:56|East Alexandrechester|Conn-Conn|Nugget Nectar|German Wheat And Rye Beer
+2834179|70566058/22|8432547|02/10/2016 10:32:55|South Raoul|Lind, Lind and Lind|Celebrator Doppelbock|Porter
+2469342|01238093/26|2134301|28/10/2022 11:48:54|Elbertfurt|Hickle LLC|Duvel|Belgian Strong Ale
+5091641|92119711/35|2338435|24/03/2018 10:42:43|South Xander|Kemmer, Kemmer and Kemmer|Samuel Smith’s Oatmeal Stout|Wood-aged Beer
+5208458|45509395/21|8947990|03/07/2012 06:22:58|Port Wavashire|Wolff, Wolff and Wolff|Trappistes Rochefort 10|Scottish And Irish Ale
+1226028|78003379/93|4760486|02/04/2021 03:13:27|New Eloisemouth|Walker, Walker and Walker|Trois Pistoles|Fruit Beer
+1073967|51089795/54|8014160|15/11/2018 22:30:28|Mannberg|Pfeffer, Pfeffer and Pfeffer|Bell’s Expedition|Strong Ale
+4524334|39088350/29|1811628|18/07/2018 22:55:28|West Katherynland|Mayert, Mayert and Mayert|Yeti Imperial Stout|German Wheat And Rye Beer
+6474446|19666946/35|0620502|21/06/2022 02:22:10|Langoshbury|Reilly, Reilly and Reilly|Edmund Fitzgerald Porter|Sour Ale
+9398754|21028999/61|8011212|21/11/2019 19:03:09|McClurehaven|Tromp, Tromp and Tromp|Dreadnaught IPA|Pilsner
+8532572|68554766/52|5949503|24/06/2017 14:14:18|Gilbertoberg|Wolff-Wolff|Old Rasputin Russian Imperial Stout|European Amber Lager
+4967133|58804673/81|9391967|22/02/2020 10:45:06|North Tristinburgh|Little, Little and Little|Maharaj|Dark Lager
+4708617|09852465/36|0358035|20/06/2021 21:54:20|Kassulkeborough|Schimmel, Schimmel and Schimmel|Arrogant Bastard Ale|Light Hybrid Beer
+6317349|98334063/43|9314448|16/04/2018 11:17:14|West Arlie|Ebert Group|Bourbon County Stout|Dark Lager
+7498558|10144816/95|9531124|04/10/2012 12:57:35|East Desireefort|Schmidt-Schmidt|Arrogant Bastard Ale|Smoke-flavored
+8623178|32329495/64|1945234|14/05/2017 01:53:13|South Hillary|Mohr-Mohr|Péché Mortel|Smoke-flavored
+9242517|51680661/57|9958689|04/05/2022 23:50:00|South Viva|Hamill and Sons|Alpha King Pale Ale|Merican Ale
+9710681|60428663/03|6835105|29/03/2022 21:35:28|Lake Cullen|Stiedemann, Stiedemann and Stiedemann|Maharaj|Stout
+8298928|83149250/16|2961407|24/09/2013 08:56:56|Lake Jammie|Gleichner LLC|Yeti Imperial Stout|German Wheat And Rye Beer
+0115526|12894171/82|4325081|03/07/2012 06:52:40|South Randyport|Friesen, Friesen and Friesen|Bell’s Expedition|English Brown Ale
+8584954|04657491/41|0558745|25/04/2014 12:15:09|Jamilshire|Tillman and Sons|Sierra Nevada Bigfoot Barleywine Style Ale|Scottish And Irish Ale
+5670380|10749263/90|6723274|28/10/2013 10:37:06|North Micah|Barrows-Barrows|Alpha King Pale Ale|Wood-aged Beer
+8411838|43204010/72|0904428|24/12/2016 19:49:55|East Kimberly|Sauer, Sauer and Sauer|Storm King Stout|Amber Hybrid Beer
+0756930|95041378/95|5650618|10/03/2020 20:51:30|Lake Tannerton|Erdman, Erdman and Erdman|Racer 5 India Pale Ale, Bear Republic Bre|Porter
+3438963|99945442/24|5511402|05/04/2020 19:34:08|Simville|Langworth Inc|Ten FIDY|Scottish And Irish Ale
+3002955|12094316/61|4134836|29/01/2022 04:45:43|West Christina|Parker LLC|Oak Aged Yeti Imperial Stout|English Brown Ale
+3672377|28931126/26|9326264|31/05/2020 05:43:40|East Adrielville|Abshire, Abshire and Abshire|Arrogant Bastard Ale|Belgian And French Ale
+5875744|15788126/45|6179272|09/08/2014 14:52:19|Ritchieport|Baumbach LLC|Trappistes Rochefort 8|Merican Ale
+5811796|72860844/03|3904835|14/08/2022 08:48:32|New Roosevelt|Waters Group|Sublimely Self-Righteous Ale|Vegetable Beer
+1557805|65044952/76|0310041|08/10/2015 22:55:14|Port Carol|Franecki-Franecki|Dreadnaught IPA|Smoke-flavored
+4363858|29058372/77|6269297|31/03/2013 22:00:44|Daughertystad|Hilll Inc|Brooklyn Black|English Pale Ale
+1632785|03869789/66|1611151|15/06/2020 15:26:57|East Lamarhaven|Funk, Funk and Funk|Arrogant Bastard Ale|Merican Ale
+5216462|12584681/81|3018400|11/11/2020 12:47:45|West Larryberg|Hettinger-Hettinger|Sierra Nevada Celebration Ale|English Pale Ale
+4417903|55393023/63|1402773|17/03/2018 13:36:03|Port Cristalmouth|Kub and Sons|Weihenstephaner Hefeweissbier|Pilsner
+4075287|80915357/35|0296013|18/02/2014 07:43:04|Melynabury|Schultz, Schultz and Schultz|Orval Trappist Ale|Porter
+0037509|79138676/35|4080964|07/10/2012 08:00:13|North Weston|Heaney-Heaney|Trois Pistoles|European Amber Lager
+9188143|29965219/27|2068794|24/10/2018 08:31:22|Braedenton|Cremin Group|Sierra Nevada Bigfoot Barleywine Style Ale|Fruit Beer
+1586165|19143131/37|9358672|22/04/2014 14:55:22|Nienowville|Connelly Group|Bell’s Expedition|European Amber Lager
+1402022|89161614/55|6571976|14/07/2021 00:33:19|Satterfieldville|Kovacek Inc|Sierra Nevada Celebration Ale|Pilsner
+4559960|64449295/78|6413967|15/07/2021 22:50:32|Kiannaville|McKenzie, McKenzie and McKenzie|Oak Aged Yeti Imperial Stout|Belgian And French Ale
+6350233|99209718/45|4584025|08/07/2016 09:46:12|Tremblaymouth|Thompson-Thompson|Shakespeare Oatmeal|Pilsner
+1874380|50353556/61|0658019|08/10/2018 13:54:57|Paucekland|Gutmann-Gutmann|Chimay Grande Réserve|Smoke-flavored
+5388389|68564961/53|4036273|07/08/2019 22:22:33|McKenzietown|Muller, Muller and Muller|Bell’s Expedition|Belgian And French Ale
+2157960|98279280/56|7342336|22/04/2020 02:15:29|New Carrieborough|Tromp-Tromp|Samuel Smith’s Imperial IPA|Merican Ale
+8604970|81910902/77|6941867|10/10/2015 17:44:35|Grahamview|Maggio Inc|Brooklyn Black|Dark Lager
+1236032|33778932/12|1916298|09/05/2013 09:47:53|Streichbury|Hand and Sons|Stone IPA|India Pale Ale
+3721569|60273257/98|2690254|13/12/2017 11:35:53|Ziemannburgh|Walter-Walter|Dreadnaught IPA|Dark Lager
+8649594|64823385/45|7919287|25/09/2020 02:23:30|Kyleehaven|Pagac, Pagac and Pagac|Founders Kentucky Breakfast|Smoke-flavored
+2899117|37875782/93|3722492|01/07/2012 17:19:26|Jettieshire|Satterfield-Satterfield|HopSlam Ale|Pilsner
+0655118|65946915/26|8100903|15/02/2021 16:36:05|South Alejandrabury|Wiegand Group|HopSlam Ale|Wood-aged Beer
+7208747|67427265/72|8797683|01/05/2016 08:58:28|Kaileyside|Ritchie, Ritchie and Ritchie|Bell’s Expedition|Pilsner
+1745843|25134293/77|7411211|13/08/2019 03:21:19|West Isobelshire|VonRueden-VonRueden|Founders Breakfast Stout|Bock
+0961153|26315167/40|5192761|10/01/2014 15:21:59|Vancechester|Welch, Welch and Welch|Shakespeare Oatmeal|India Pale Ale
+5252859|89351225/72|5424237|10/12/2014 17:58:02|Raebury|Boehm Inc|Racer 5 India Pale Ale, Bear Republic Bre|Belgian Strong Ale
+5253566|73103532/98|2921220|19/09/2015 18:34:45|O'Konfort|Hane LLC|Hop Rod Rye|Smoke-flavored
+2450854|72226301/35|5199547|23/10/2021 08:44:29|Marquardtmouth|Marquardt-Marquardt|Two Hearted Ale|English Brown Ale
+4147772|25530565/35|4600310|04/02/2016 02:41:36|Thaddeusfurt|Brakus-Brakus|Celebrator Doppelbock|Belgian Strong Ale
+9562078|09761866/28|3875215|08/05/2015 03:35:02|Lake Quinn|Vandervort, Vandervort and Vandervort|Maudite|Light Hybrid Beer
+1912029|01692615/81|5627052|18/05/2022 05:19:15|Julianaton|Ward, Ward and Ward|Storm King Stout|Fruit Beer
+0459618|58065377/70|9222401|29/10/2021 00:27:42|West Brenda|O'Kon, O'Kon and O'Kon|Sublimely Self-Righteous Ale|Wood-aged Beer
+8129822|16169973/26|1888534|09/06/2018 09:46:43|Kingshire|Dickinson, Dickinson and Dickinson|Chimay Grande Réserve|Merican Ale
+1894878|12617514/62|5455403|02/01/2017 12:50:21|Isaacchester|Runolfsson and Sons|Chimay Grande Réserve|Sour Ale
+8884674|78036293/27|9215656|10/03/2018 05:08:51|Christiansenchester|Lehner LLC|Arrogant Bastard Ale|Wood-aged Beer
+2126672|59232424/36|1377530|11/04/2022 15:37:29|Mariettamouth|Ledner-Ledner|Chocolate St|Sour Ale
+3288849|49701096/57|1279605|12/09/2017 22:46:47|Markstown|Terry, Terry and Terry|Dreadnaught IPA|English Pale Ale
+9872346|28303781/62|6490605|17/03/2014 11:44:34|Maymieside|Bartoletti-Bartoletti|Arrogant Bastard Ale|India Pale Ale
+2512569|75692624/17|3020375|23/06/2013 17:48:33|Homenickfort|Fritsch Inc|Péché Mortel|Light Hybrid Beer
+2841610|22383293/39|4398762|16/05/2021 12:32:57|Rossiemouth|Howe, Howe and Howe|Duvel|Porter
+6933779|35987182/76|1066773|12/01/2015 02:27:58|Alexandrinemouth|Conroy, Conroy and Conroy|90 Minute IPA|Bock
+9910985|95738076/54|3442287|21/06/2014 05:25:34|Gulgowskifurt|Bartell-Bartell|Chocolate St|Bock
+7254990|07695677/60|9183356|17/05/2018 12:49:24|Macejkovicbury|Jacobs-Jacobs|Dreadnaught IPA|India Pale Ale
+1106743|96875551/59|1799285|10/06/2020 23:52:00|Wunschfort|Breitenberg-Breitenberg|Two Hearted Ale|English Brown Ale
+9307107|80828412/28|7084158|12/07/2012 19:27:18|Port Nico|Schmeler, Schmeler and Schmeler|Trappistes Rochefort 10|Porter
+3282704|88546599/70|1792188|11/02/2020 21:19:33|Fidelbury|Bernhard and Sons|Westmalle Trappist Tripel|Pilsner
+9196490|84284391/85|2747576|11/02/2020 13:22:51|New Lucie|Upton LLC|HopSlam Ale|Strong Ale
+4399891|82122231/63|8941263|14/12/2022 03:30:36|New Garrett|Friesen-Friesen|Pliny The Elder|Belgian And French Ale
+7072851|19332552/82|8048215|09/12/2014 20:49:00|Herthaland|Volkman-Volkman|Maudite|Light Lager
+5064661|46470386/00|8283502|27/09/2015 03:50:04|Ophelialand|Heaney LLC|Sierra Nevada Bigfoot Barleywine Style Ale|English Brown Ale
+6656632|23133671/23|8438925|19/04/2014 10:57:21|South Garnettstad|Smith Group|Founders Breakfast Stout|India Pale Ale
+9470298|14674750/59|9080372|16/03/2013 07:20:18|Deltaside|Lowe, Lowe and Lowe|Founders Kentucky Breakfast|Smoke-flavored
+0168247|37012339/70|8352506|17/03/2015 09:30:02|Kilbackburgh|Bergnaum Inc|Stone Imperial Russian Stout|Light Lager
+9290989|93207592/50|5916274|11/06/2012 22:48:24|Satterfieldbury|Hegmann, Hegmann and Hegmann|Oak Aged Yeti Imperial Stout|Bock
+0644453|27219464/08|0375477|10/04/2022 04:37:13|Antoinetteborough|Farrell Group|Péché Mortel|Dark Lager
+5983088|54162427/31|1308319|28/07/2020 19:02:31|Cruickshankberg|Smitham, Smitham and Smitham|Storm King Stout|Dark Lager
+5006699|21185234/44|6564719|02/04/2015 05:42:19|Balistreriborough|Zieme Group|Maudite|Porter
+5982958|07190823/17|2199945|27/09/2015 22:19:28|Orlandoport|Hartmann, Hartmann and Hartmann|Nugget Nectar|Light Lager
+4428747|23616486/03|5339704|20/05/2021 08:19:27|Walkerfurt|Gorczany Inc|Yeti Imperial Stout|European Amber Lager
+5921016|53399081/38|9162718|20/06/2012 15:09:30|Tellyfort|Thiel, Thiel and Thiel|Old Rasputin Russian Imperial Stout|Vegetable Beer
+2533779|75174557/82|0539774|29/06/2022 19:49:36|Schimmelville|Crist-Crist|Sierra Nevada Bigfoot Barleywine Style Ale|Dark Lager
+8996453|39930420/21|1329482|03/06/2016 21:26:02|East Ceceliaburgh|Harber, Harber and Harber|Sierra Nevada Bigfoot Barleywine Style Ale|India Pale Ale
+3857975|78179781/19|6816149|19/05/2015 02:59:58|Quigleyfurt|Zulauf, Zulauf and Zulauf|Two Hearted Ale|Light Lager
+4148766|60433817/93|9608165|18/09/2018 16:25:00|East Lina|Bechtelar LLC|Yeti Imperial Stout|Dark Lager
+4067261|07759170/13|3461555|06/10/2017 13:21:32|Jacobiport|Jones Group|Shakespeare Oatmeal|English Pale Ale
+3167856|13141695/40|1211060|17/10/2015 16:54:20|Maryport|Howe, Howe and Howe|Bell’s Expedition|Fruit Beer
+3654681|89934761/93|9637682|28/11/2022 20:14:03|North Theodorastad|Bednar Group|Double Bastard Ale|Strong Ale
+1000
